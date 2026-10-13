@@ -1,0 +1,30 @@
+{
+  "observedAt": "2026-10-13",
+  "logo": {
+    "url": "https://website-media.deel.com/logo_revamp_164ddaed0c.svg",
+    "file": "public/brand/deel-logo.svg",
+    "width": 78,
+    "height": 27,
+    "transparent": true
+  },
+  "fonts": [
+    {
+      "family": "BagossCondensedFont",
+      "url": "https://website-media.deel.com/_next/static/media/cd977f37204bcfbc-s.p.woff2",
+      "bytes": 42648
+    },
+    {
+      "family": "BagossStandardVF",
+      "url": "https://website-media.deel.com/_next/static/media/fad621f95e01987c-s.p.woff2",
+      "bytes": 101804
+    },
+    {
+      "family": "Inter",
+      "url": "https://website-media.deel.com/_next/static/media/e4af272ccee01ff0-s.p.woff2",
+      "bytes": 48432
+    }
+  ],
+  "fontsBundled": false,
+  "fontLicense": "Not established from official page; remote references only",
+  "pressKit": "https://drive.google.com/drive/folders/1CAqVgkHZmzGb85hdTllE8tEK-Ktge9OO?usp=share_link"
+}

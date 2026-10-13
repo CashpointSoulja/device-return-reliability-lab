@@ -1,0 +1,3650 @@
+{
+  "name": "borderless",
+  "url": "https://www.deel.com/blog/borderless-it/",
+  "status": 200,
+  "title": "Borderless IT, with Deel’s Director of Product and Principal PMM",
+  "text": "SPECIAL OFFER\n\nGet 3 months free of PEO*\n\nClaim offer\nSolutions\nUse cases\nWho we serve\nResources\nPricing\nEN\nLog in\nBook a demo\n\nHome\n\nBlogs\n\nBorderless It\n\nArticle\n\n8 min read\n\nBorderless IT, with Deel’s Director of Product and Principal PMM\n\nIT & DEVICE MANAGEMENT\n\nAUTHOR\n\nEllen Simmonds\n\nLAST UPDATE\n\nJanuary 30, 2026\n\nTable of Contents\n\nMeet the experts behind Deel IT\n\nGlobal IT: Then and now\n\nThe three pillars behind a borderless IT approach\n\nBuilding the blueprint for borderless IT\n\nTry Deel\nKey takeaways\n\n75% of businesses report that their infrastructure is struggling to scale a remote distributed workforce, proving that the old ways of managing IT aren’t adapting to the modern working world.\n\nRemotely distributed organizations benefit from a global talent pool, but so do their competitors. To win and retain top global professionals, it all starts with IT.\n\nBy bringing HR and IT under one roof, Deel cuts down on back-and-forth between both teams while boosting productivity and improving the employee experience for their remotely distributed workforce of 5,000+ people.\n\nDespite the rise in remote work being old news by now, 75% of companies report that their legacy IT systems are struggling to adapt. If you’re looking to scale your business, and your IT operations along with it, it’s important to understand the new challenges your IT team faces.\n\nOur in-house experts and Deel IT product leaders, Sam Oliver and Michael Ginzo, sat down to talk about evolutions in the IT landscape, and how IT teams can adapt to changing work patterns. You’ll also find out how we at Deel use our own solutions to support and drive productivity within a global workforce of more than 5,000 employees, with a blueprint for adopting a borderless IT mindset that works for businesses of any size.\n\nMeet the experts behind Deel IT\n\nSam Oliver is the Principal Product Marketing Manager at Deel IT, and has just over a decade of experience working across various technology, cybersecurity, and biotechnology companies. Sam works very closely with the Deel product team to build solutions that streamline global employee device and application management.\n\nMichael Ginzo is a Senior Director of Product at Deel, where he leads the development of Deel IT. In 2020, when the world shifted dramatically from IRL to WFH, he co-founded Hofy, where he spent four years as CPO. Following Deel’s acquisition of Hofy in 2024, Michael joined the team to continue building world-class IT solutions for globally distributed teams.\n\nGlobal IT: Then and now\n\nTen years ago many, if not most, businesses operated in a centralized office-based environment. With everyone under one roof all aspects of IT were actually quite straightforward. Employees were all logging in from the same physical location, systems were built around the idea of a centralized controlled network, and getting all necessary equipment to a new hire was as simple as leaving it on their desk.\n\nFast forward to today, and remote/hybrid work models are becoming increasingly global. Today, you can hire the best people for any project - like an innovative developer from India, a talented project manager from Germany, or a creative marketer from Brazil - without having a local entity. But with new opportunities come new IT challenges. How to make sure that everyone is connected, protected, and supported when problems arise?\n\nManaging global IT is far from simple. But the solution can be simplified by honing in on three core foundational principles:\n\nDevices: the hardware your team needs to do their jobs; laptops, tablets, monitors, etc.\n\nApplications: the software you use to work across borders; your HRIS, password manager, communication platforms, etc.\n\nSupport: your organization’s ability to help employees when something goes wrong; lost passwords, locked profiles, broken keyboards, etc.\n\nLet’s break down the new challenges faced by IT teams working to support a globally distributed team, and show you the blueprint for how Deel overcomes these challenges.\n\nThe three pillars behind a borderless IT approach\n1. Devices\n\nDevices are the foundation of an employee’s productivity, but they also pose a complex IT operations challenge as you scale a remote-first business. Where do you buy, lease, or reuse equipment, and how do you manage your vendor relationships in a scalable way? How do you manage requests for extra equipment or replacements, and how do you get your devices back from off-boarded employees in hard-to-reach places?\n\nIf you’re a remote-first company, you’re undoubtedly already grappling with these challenges. If your solution involves juggling spreadsheets, vendors, and stockpiles of secondhand equipment, you may be struggling to scale operations as your company grows.\n\nHow Deel does it\n\nHR and IT under one roof: When new teammates are onboarded, they’re invited to join the Deel platform before day one, where they’re able to choose their devices from the options automatically made available to them. These are then shipped to wherever they are from our hubs, even if they’re in hard-to-reach places!\n\nNo secondhand stockpiles: With Deel IT, we supply our teams all around the world with the devices they need. This includes fresh devices for newcomers and replacing old tech for existing teammates. This works on a credit-based system, so Deel IT users don’t have to worry about recalling devices in the US and redeploying them all the way to Europe, for example. This prevents delays in getting devices to our teams and reduces waste for the organization.\n\nAutomated and secure offboarding: The People team set an employee’s last day within Deel, triggering an automated offboarding flow. We lock and wipe devices remotely, and ensure the return of all devices to our secure warehouses for re-use.\n\nEnd-to-end equipment management: We go beyond just delivering and recalling equipment. When a teammate has an issue, we’re able to repair or replace faulty equipment in over 130+ countries.\n\nBy running HR and IT within the same platform, we’re able to automate interactions between the two and cut down on back-and-forth between these teams, while also creating a seamless experience for employees.\n\n2. Applications\n\nApplications are the operational backbone of remote and hybrid workforces. You have to ensure that everyone has the digital tools they need in order to do their job and collaborate across timezones and geographies. You also need to have a very clear understanding of where your data is, what type of data it is, and who has access to it. Everything has to be done with data protection and cybersecurity in mind. In short, you need complete visibility and connectivity, whilst also ensuring security.\n\nHow Deel does it\n\nAutomated onboarding and offboarding: Thanks to HR and IT being handled within the same platform, onboarding and offboarding are easy to automate. New hires are pre-approved for the applications they’ll need access to, and access is remotely cut off on the last day for offboarding teammates.\n\nRemote mobile device management: We’ve partnered with JumpCloud to manage mobile devices remotely and securely, all through the Deel platform.\n\nAutomated access controls: We’re able to eliminate orphaned accounts, excessive access rights, and security gaps by automatically adapting access as employees' status changes.\n\nCentralized billing management: Multi-vendor and license management are all done through the Deel platform, so IT teams spend less time manually consolidating and more time doing what matters.\n\nBy partnering with world-class tools and centralizing everything within the Deel platform, we’re able to give our IT teams maximum control and visibility and create the optimal digital environment for our workforce.\n\n3. Support\n\nWith support, your top priority is safeguarding both team members' privacy and company assets. You also need to be able to keep productivity up by helping your employees out with smaller problems, like a broken keyboard or recovering locked accounts. And in a remote company, what happens when your lead developer can’t get online on one side of the planet because your IT team is still asleep on the other?\n\nProviding 24/7 support for a globally distributed team with bygone solutions would add up to an inordinate amount of manual and unscale processes. But to scale a globally distributed business it is, unfortunately, necessary. Luckily, with Deel IT, we don’t have to choose between one headache or the other.\n\nHow Deel does it\n\nIn-house team of IT experts: From Delhi to Derry, our employees have support at their fingertips - whether that means replacing hardware, troubleshooting software, or responding to security incidents.\n\nBuilt-in security: Security is always a top priority, and we’ve built market-leading IT security features. This allows us to automatically secure devices with MDM and endpoint protection and revoke application access as needed. Our commitment to safety has earned us SOC II Type 2 and ISO27001 accreditations.\n\n24/7 global support: Remote device management means that even employees in the most hard-to-reach places can get the help they need.\n\nLoaner devices: In the case of hardware issues, we can organize SLA-backed repairs and loaners to get people reconnected as soon as possible.\n\nWith 24/7 support, we keep frustration and down-time to a minimum. This extends to all of our teammates whether they’re in the same city as the IT team or on the opposite side of the globe. This isn’t something every company can build in-house, but as your organization grows there will come a time when it makes sense to outsource this level of support.\n\nDeel IT\nAutomate IT operations in 130+ countries\nSimplify equipment lifecycle management with Deel IT—procure, deploy, repair, and recover devices all in one place with 24/7 support.\nLearn more\nBuilding the blueprint for borderless IT\n\nWith so many moving pieces, creating a digital workplace for a globally distributed team will never be a simple task. However, a better solution exists, and you don’t have to rely on tools that don’t cater to your organization’s needs.\n\nEverything we do at Deel runs on Deel, which is designed to support distributed teams of any size. We’re able to recruit, equip, and support a global workforce while minimizing non-compliance risks. And with HR and IT consolidated in one platform we’re able to automate and simplify processes that ultimately make both teams more efficient.\n\nSee how Deel can help you build your new borderless IT strategy. Book your free demo today.\n\nDeel IT: Endpoint Protection\n\nEllen Simmonds is a content marketing manager with a decade of experience in tech, leadership, startups, and the creative industries. A long-time remote worker, she's passionate about WFH productivity hacks and fostering company culture across globally distributed teams. She also writes and speaks on the ethical implementation of AI, advocating for transparency, fairness, and human oversight in emerging technologies to ensure innovation benefits both businesses and society.\n\nBACK TO TOP\nRelated resources\n\nArticle\n\n3 min read\n\nCompliance Issues When Providing Equipment for Remote Workers\nRead more\n\nArticle\n\n7 min read\n\nIT Equipment Leasing With Deel IT: Everything You Need to Know\nRead more\n\nArticle\n\n3 minutes\n\nDeel acquires Hofy\nRead more\n\nArticle\n\n4 min read\n\nIntroducing Deel IT, the only platform to manage IT operations in 130+ countries\nRead more\n\nArticle\n\n7 min read\n\nHow to Create a Structured IT Onboarding Process\nRead more\n\nArticle\n\n7 min\n\nCertified Data Erasure for Secure and Compliant Device Offboarding\nRead more\n\nArticle\n\n12 min read\n\nHow Deel IT Saves Time & Money at Every Stage of the Device Lifecycle\nRead more\n\nArticle\n\n7 min\n\n4 Reasons to Use Zero Touch Deployment to Supply Devices to Remote Workers\nRead more\n\nArticle\n\n7 min read\n\n4 Reasons a Late Laptop Will Derail Your Remote Employee Onboarding Process\nRead more\n\nArticle\n\n7 min read\n\nHow to Ensure Seamless and Speedy Integration of Global Employees and Their IT Equipment with Deel IT\nRead more\n\nArticle\n\n9 min\n\nOffboarding Devices in Hard to Reach Places: A Complete Guide\nRead more\n\nArticle\n\n11 min read\n\nDepreciation of IT Assets: How Bulk Laptop Purchases Can Cut Costs\nRead more\n\nArticle\n\n12 minutes\n\nThe Most Popular IT Products for Every Team in 2026\nRead more\n\nArticle\n\n8 min read\n\nHow to Cut Device Security Costs and Risks with Mobile Device Management\nRead more\n\nArticle\n\n10 min read\n\nHow to Enhance HR Efficiency with Deel: Hire, Equip, and Onboard the Best Talent at Speed\nRead more\n\nArticle\n\n15 min read\n\nHow 24/7 IT Support Builds Stronger, Safer Global Operations\nRead more\n\nAbout us\n\nLeadership team\n\nCareers\n\nPricing\n\nSolutions\n\nDeel Payroll\n\nDeel HR\n\nDeel IT\n\nDeel Benefits\n\nDeel Hire\n\nDeel Mobility\n\nDeel Embedded\n\nDeel Services\n\nEOR\n\nPEO\n\nAll Solutions\n\nDeel Platform\n\nHR Platform\n\nDeel AI\n\nWhite Label\n\nDeel API\n\nIntegrations\n\nWorkflows\n\nAkai\n\nPlatform Status\n\nWhy Deel?\n\nBuilt on in-house infrastructure\n\nCustomer stories\n\nCompare Deel\n\nSecurity\n\nTrust Center\n\nBecome a partner\n\nBecome an affiliate\n\nG2 customer reviews\n\nResources\n\nBlog\n\nTemplates And Guides\n\nGlobal Hiring Guides\n\nWebinars & Events\n\nGlobal Work Glossary\n\nDeel Impact\n\nJob Description Templates\n\nFree HR tools\n\nAPI Documentation\n\nCompliance Verification FAQ\n\nHelp Center\n\nPress\n\nCustomers\n\nRevolut\n\nFICO\n\nPuma\n\nOutreach\n\nZip Co\n\nDirectional Pizza\n\nGet the latest insights on today's world of work delivered straight to your inbox.\n\nI confirm that I have read Deel’s Privacy Policy and agree with it.\n\n© Copyright 2026. All Rights Reserved.\n\nDisclaimer\n\nPrivacy Policy\n\nCookie Settings\n\nLegal Hub\n\nWhistleblower Policy\n\nDisclosures\n\nLicenses and Compliance",
+  "dom": {
+    "samples": [
+      {
+        "tag": "P",
+        "text": "Get 3 months free of PEO*",
+        "class": "",
+        "rect": {
+          "x": 622.859375,
+          "y": 20.09375,
+          "w": 179.96875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Claim offer",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 818.828125,
+          "y": 16,
+          "w": 85.359375,
+          "h": 32
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Claim offer",
+        "class": "mui-1rh4x73",
+        "rect": {
+          "x": 818.828125,
+          "y": 16,
+          "w": 85.359375,
+          "h": 32
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "lineHeight": "20.4px",
+        "letterSpacing": "0.18px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "200px",
+        "padding": "6px 12px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "",
+        "class": "mui-1au098y",
+        "rect": {
+          "x": 1352,
+          "y": 20,
+          "w": 24,
+          "h": 24
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "27.2px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "class": "mui-1betn9n",
+        "rect": {
+          "x": 64,
+          "y": 90,
+          "w": 78,
+          "h": 28
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Solutions",
+        "class": "mui-1fo3fxi",
+        "rect": {
+          "x": 194,
+          "y": 84,
+          "w": 95.3125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "0.375px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Use cases",
+        "class": "mui-1fo3fxi",
+        "rect": {
+          "x": 317.3125,
+          "y": 84,
+          "w": 100.265625,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "0.375px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Who we serve",
+        "class": "mui-1fo3fxi",
+        "rect": {
+          "x": 445.578125,
+          "y": 84,
+          "w": 127.484375,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "0.375px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Resources",
+        "class": "mui-1fo3fxi",
+        "rect": {
+          "x": 601.0625,
+          "y": 84,
+          "w": 103.65625,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "0.375px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Pricing",
+        "class": "mui-1moi9ht",
+        "rect": {
+          "x": 732.71875,
+          "y": 84,
+          "w": 50.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "0.375px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "EN",
+        "class": "flex items-center gap-2 px-3 py-2 rounded-full bg-transparent transition-all duration-200 border-0 hover:bg-orange-50/80",
+        "rect": {
+          "x": 1091.53125,
+          "y": 86,
+          "w": 68.109375,
+          "h": 36
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "3.35544e+07px",
+        "padding": "8px 12px",
+        "gap": "8px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Log in",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 1167.640625,
+          "y": 84,
+          "w": 75.140625,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Log in",
+        "class": "hidden-phone mui-ti8o1k",
+        "rect": {
+          "x": 1167.640625,
+          "y": 84,
+          "w": 75.140625,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Book a demo",
+        "class": "mui-1wshw4o",
+        "rect": {
+          "x": 1258.78125,
+          "y": 84,
+          "w": 117.21875,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 27, 27)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Home",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 64,
+          "y": 156,
+          "w": 33.625,
+          "h": 20.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Home",
+        "class": "MuiTypography-root MuiTypography-body1 previous-page mui-n3yuwg",
+        "rect": {
+          "x": 64,
+          "y": 156,
+          "w": 33.625,
+          "h": 20.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "20.4px",
+        "letterSpacing": "normal",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Blogs",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 133.625,
+          "y": 156,
+          "w": 31.65625,
+          "h": 20.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Blogs",
+        "class": "MuiTypography-root MuiTypography-body1 previous-page mui-n3yuwg",
+        "rect": {
+          "x": 133.625,
+          "y": 156,
+          "w": 31.65625,
+          "h": 20.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "20.4px",
+        "letterSpacing": "normal",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Borderless It",
+        "class": "MuiTypography-root MuiTypography-body1 md current-page mui-n3yuwg",
+        "rect": {
+          "x": 201.28125,
+          "y": 156,
+          "w": 72.5625,
+          "h": 20.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "lineHeight": "20.4px",
+        "letterSpacing": "normal",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 96,
+          "y": 286.796875,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "8 min read",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 156.375,
+          "y": 289.5,
+          "w": 75.546875,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H1",
+        "text": "Borderless IT, with Deel’s Director of Product and Principal PMM",
+        "class": "MuiTypography-root MuiTypography-h1 mui-102es3j",
+        "rect": {
+          "x": 64,
+          "y": 324,
+          "w": 560,
+          "h": 235.1875
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": "500",
+        "lineHeight": "58.8px",
+        "letterSpacing": "-0.28px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "IT & DEVICE MANAGEMENT",
+        "class": "MuiTypography-root MuiTypography-body1 uppercase mui-ww77xx",
+        "rect": {
+          "x": 68,
+          "y": 587.1875,
+          "w": 155.28125,
+          "h": 14.296875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "11px",
+        "fontWeight": "500",
+        "lineHeight": "14.3px",
+        "letterSpacing": "0.385px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "AUTHOR",
+        "class": "MuiTypography-root MuiTypography-body1 mui-1kdtx15",
+        "rect": {
+          "x": 136,
+          "y": 790.875,
+          "w": 106.40625,
+          "h": 20.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "lineHeight": "20.4px",
+        "letterSpacing": "0.72px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Ellen Simmonds",
+        "class": "MuiTypography-root MuiTypography-body1 md mui-bwqqsr",
+        "rect": {
+          "x": 136,
+          "y": 813.28125,
+          "w": 106.40625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "LAST UPDATE",
+        "class": "MuiTypography-root MuiTypography-body1 mui-1kdtx15",
+        "rect": {
+          "x": 505.390625,
+          "y": 790.875,
+          "w": 118.609375,
+          "h": 20.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "lineHeight": "20.4px",
+        "letterSpacing": "0.72px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "January 30, 2026",
+        "class": "MuiTypography-root MuiTypography-body1 md mui-bwqqsr",
+        "rect": {
+          "x": 505.390625,
+          "y": 813.28125,
+          "w": 118.609375,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Meet the experts behind Deel IT",
+        "class": "MuiTypography-root MuiTypography-body1 mui-1t8nl8u",
+        "rect": {
+          "x": 84,
+          "y": 1117.984375,
+          "w": 212.71875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "460",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(97, 97, 97)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Global IT: Then and now",
+        "class": "MuiTypography-root MuiTypography-body1 mui-1t8nl8u",
+        "rect": {
+          "x": 84,
+          "y": 1174.78125,
+          "w": 161.296875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "460",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(97, 97, 97)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "The three pillars behind a borderless IT approach",
+        "class": "MuiTypography-root MuiTypography-body1 mui-1t8nl8u",
+        "rect": {
+          "x": 84,
+          "y": 1231.578125,
+          "w": 279,
+          "h": 47.59375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "460",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(97, 97, 97)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Building the blueprint for borderless IT",
+        "class": "MuiTypography-root MuiTypography-body1 mui-1t8nl8u",
+        "rect": {
+          "x": 84,
+          "y": 1312.171875,
+          "w": 255.9375,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "460",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(97, 97, 97)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Try Deel",
+        "class": "mui-oh6azh",
+        "rect": {
+          "x": 84,
+          "y": 1372.96875,
+          "w": 279,
+          "h": 51
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "27.2px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 27, 27)",
+        "borderRadius": "200px",
+        "padding": "12px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "Key takeaways",
+        "class": "MuiTypography-root MuiTypography-h2 mui-n3b4cy",
+        "rect": {
+          "x": 513,
+          "y": 1057.984375,
+          "w": 719,
+          "h": 23
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "20px",
+        "fontWeight": "500",
+        "lineHeight": "23px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "75% of businesses report that their infrastructure is struggling to scale a remote distributed workforce, proving that t",
+        "class": "",
+        "rect": {
+          "x": 549,
+          "y": 1104.984375,
+          "w": 683,
+          "h": 81.609375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Remotely distributed organizations benefit from a global talent pool, but so do their competitors. To win and retain top",
+        "class": "",
+        "rect": {
+          "x": 549,
+          "y": 1198.59375,
+          "w": 683,
+          "h": 54.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "By bringing HR and IT under one roof, Deel cuts down on back-and-forth between both teams while boosting productivity an",
+        "class": "",
+        "rect": {
+          "x": 549,
+          "y": 1265,
+          "w": 683,
+          "h": 81.609375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Despite the rise in remote work being old news by now, 75% of companies report that their legacy IT systems are struggli",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 1395.609375,
+          "w": 720,
+          "h": 115.625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "75% of companies report that their legacy IT systems are struggling to adapt",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 1399.609375,
+          "w": 682.125,
+          "h": 48.90625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "460",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Our in-house experts and Deel IT product leaders, Sam Oliver and Michael Ginzo, sat down to talk about evolutions in the",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 1528.234375,
+          "w": 720,
+          "h": 173.4375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel IT",
+        "class": "",
+        "rect": {
+          "x": 688.78125,
+          "y": 1532.234375,
+          "w": 56.09375,
+          "h": 20
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "460",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "Meet the experts behind Deel IT",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 1765.671875,
+          "w": 720,
+          "h": 76.40625
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "500",
+        "lineHeight": "41.4px",
+        "letterSpacing": "-0.18px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Sam Oliver is the Principal Product Marketing Manager at Deel IT, and has just over a decade of experience working acros",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 1859.078125,
+          "w": 720,
+          "h": 115.625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Michael Ginzo is a Senior Director of Product at Deel, where he leads the development of Deel IT. In 2020, when the worl",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 1991.703125,
+          "w": 720,
+          "h": 144.53125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "Global IT: Then and now",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 2200.234375,
+          "w": 720,
+          "h": 76.40625
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "500",
+        "lineHeight": "41.4px",
+        "letterSpacing": "-0.18px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Ten years ago many, if not most, businesses operated in a centralized office-based environment. With everyone under one ",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 2293.640625,
+          "w": 720,
+          "h": 144.53125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Fast forward to today, and remote/hybrid work models are becoming increasingly global. Today, you can hire the best peop",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 2455.171875,
+          "w": 720,
+          "h": 144.53125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "remote/hybrid work models are becoming increasingly global",
+        "class": "",
+        "rect": {
+          "x": 693.421875,
+          "y": 2459.171875,
+          "w": 490.109375,
+          "h": 20
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "460",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Managing global IT is far from simple. But the solution can be simplified by honing in on three core foundational princi",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 2616.703125,
+          "w": 720,
+          "h": 57.8125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Devices: the hardware your team needs to do their jobs; laptops, tablets, monitors, etc.",
+        "class": "",
+        "rect": {
+          "x": 505,
+          "y": 2691.515625,
+          "w": 696,
+          "h": 28.90625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Applications: the software you use to work across borders; your HRIS, password manager, communication platforms, etc.",
+        "class": "",
+        "rect": {
+          "x": 505,
+          "y": 2732.421875,
+          "w": 696,
+          "h": 57.8125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Support: your organization’s ability to help employees when something goes wrong; lost passwords, locked profiles, broke",
+        "class": "",
+        "rect": {
+          "x": 505,
+          "y": 2802.234375,
+          "w": 696,
+          "h": 57.8125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Let’s break down the new challenges faced by IT teams working to support a globally distributed team, and show you the b",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 2877.046875,
+          "w": 720,
+          "h": 57.8125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "The three pillars behind a borderless IT approach",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 2998.859375,
+          "w": 720,
+          "h": 117.8125
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "500",
+        "lineHeight": "41.4px",
+        "letterSpacing": "-0.18px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "1. Devices",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 3164.671875,
+          "w": 720,
+          "h": 32.203125
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "500",
+        "lineHeight": "32.2px",
+        "letterSpacing": "-0.14px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Devices are the foundation of an employee’s productivity, but they also pose a complex IT operations challenge as you sc",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 3213.875,
+          "w": 720,
+          "h": 144.53125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "devices back from off-boarded employees",
+        "class": "",
+        "rect": {
+          "x": 521.234375,
+          "y": 3333.5,
+          "w": 340.53125,
+          "h": 20
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "460",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "If you’re a remote-first company, you’re undoubtedly already grappling with these challenges. If your solution involves ",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 3375.40625,
+          "w": 720,
+          "h": 115.625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "HR and IT under one roof: When new teammates are onboarded, they’re invited to join the Deel platform before day one, wh",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 3635.03125,
+          "w": 616,
+          "h": 136.015625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "No secondhand stockpiles: With Deel IT, we supply our teams all around the world with the devices they need. This includ",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 3771.046875,
+          "w": 616,
+          "h": 163.21875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Automated and secure offboarding: The People team set an employee’s last day within Deel, triggering an automated offboa",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 3934.265625,
+          "w": 616,
+          "h": 108.8125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "lock and wipe devices remotely",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 3964.46875,
+          "w": 605.875,
+          "h": 47.203125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "End-to-end equipment management: We go beyond just delivering and recalling equipment. When a teammate has an issue, we’",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 4043.078125,
+          "w": 616,
+          "h": 81.609375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "By running HR and IT within the same platform, we’re able to automate interactions between the two and cut down on back-",
+        "class": "",
+        "rect": {
+          "x": 513,
+          "y": 4144.6875,
+          "w": 656,
+          "h": 81.609375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "2. Applications",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 4306.296875,
+          "w": 720,
+          "h": 32.203125
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "500",
+        "lineHeight": "32.2px",
+        "letterSpacing": "-0.14px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Applications are the operational backbone of remote and hybrid workforces. You have to ensure that everyone has the digi",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 4355.5,
+          "w": 720,
+          "h": 173.4375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "cybersecurity",
+        "class": "",
+        "rect": {
+          "x": 723.359375,
+          "y": 4475.125,
+          "w": 110.59375,
+          "h": 20
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "460",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Automated onboarding and offboarding: Thanks to HR and IT being handled within the same platform, onboarding and offboar",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 4672.9375,
+          "w": 616,
+          "h": 108.8125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Remote mobile device management: We’ve partnered with JumpCloud to manage mobile devices remotely and securely, all thro",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 4781.75,
+          "w": 616,
+          "h": 54.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "manage mobile devices remotely",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 4811.953125,
+          "w": 246.8125,
+          "h": 20
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Automated access controls: We’re able to eliminate orphaned accounts, excessive access rights, and security gaps by auto",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 4836.15625,
+          "w": 616,
+          "h": 81.609375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Centralized billing management: Multi-vendor and license management are all done through the Deel platform, so IT teams ",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 4917.765625,
+          "w": 616,
+          "h": 81.609375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "By partnering with world-class tools and centralizing everything within the Deel platform, we’re able to give our IT tea",
+        "class": "",
+        "rect": {
+          "x": 513,
+          "y": 5019.375,
+          "w": 656,
+          "h": 81.609375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "3. Support",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 5180.984375,
+          "w": 720,
+          "h": 32.203125
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "500",
+        "lineHeight": "32.2px",
+        "letterSpacing": "-0.14px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "With support, your top priority is safeguarding both team members' privacy and company assets. You also need to be able ",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 5230.1875,
+          "w": 720,
+          "h": 144.53125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Providing 24/7 support for a globally distributed team with bygone solutions would add up to an inordinate amount of man",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 5391.71875,
+          "w": 720,
+          "h": 115.625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "In-house team of IT experts: From Delhi to Derry, our employees have support at their fingertips - whether that means re",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 5651.34375,
+          "w": 616,
+          "h": 81.609375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Built-in security: Security is always a top priority, and we’ve built market-leading IT security features. This allows u",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 5732.953125,
+          "w": 616,
+          "h": 108.8125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "endpoint protection",
+        "class": "",
+        "rect": {
+          "x": 585.421875,
+          "y": 5790.359375,
+          "w": 146.375,
+          "h": 20
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "24/7 global support: Remote device management means that even employees in the most hard-to-reach places can get the hel",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 5841.765625,
+          "w": 616,
+          "h": 54.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Loaner devices: In the case of hardware issues, we can organize SLA-backed repairs and loaners to get people reconnected",
+        "class": "",
+        "rect": {
+          "x": 553,
+          "y": 5896.171875,
+          "w": 616,
+          "h": 54.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "With 24/7 support, we keep frustration and down-time to a minimum. This extends to all of our teammates whether they’re ",
+        "class": "",
+        "rect": {
+          "x": 513,
+          "y": 5970.578125,
+          "w": 656,
+          "h": 136.015625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "outsource this level of support",
+        "class": "",
+        "rect": {
+          "x": 513,
+          "y": 6055.1875,
+          "w": 640.390625,
+          "h": 47.203125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Learn more",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 529,
+          "y": 6507,
+          "w": 117.75,
+          "h": 51
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Learn more",
+        "class": "mui-1krlt25",
+        "rect": {
+          "x": 529,
+          "y": 6507,
+          "w": 117.75,
+          "h": 51
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "27.2px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 27, 27)",
+        "borderRadius": "200px",
+        "padding": "12px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "Building the blueprint for borderless IT",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 6756.59375,
+          "w": 720,
+          "h": 76.40625
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "500",
+        "lineHeight": "41.4px",
+        "letterSpacing": "-0.18px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "With so many moving pieces, creating a digital workplace for a globally distributed team will never be a simple task. Ho",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 6850,
+          "w": 720,
+          "h": 86.71875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Everything we do at Deel runs on Deel, which is designed to support distributed teams of any size. We’re able to recruit",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 6953.71875,
+          "w": 720,
+          "h": 115.625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "See how Deel can help you build your new borderless IT strategy. Book your free demo today.",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 7086.34375,
+          "w": 720,
+          "h": 57.8125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "400",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "free demo",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 7090.34375,
+          "w": 643.3125,
+          "h": 48.90625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "17px",
+        "fontWeight": "460",
+        "lineHeight": "28.9px",
+        "letterSpacing": "-0.085px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel IT: Endpoint Protection",
+        "class": "",
+        "rect": {
+          "x": 481,
+          "y": 7836.875,
+          "w": 720,
+          "h": 21
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "lineHeight": "21px",
+        "letterSpacing": "normal",
+        "color": "rgba(27, 27, 27, 0.55)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Ellen Simmonds is a content marketing manager with a decade of experience in tech, leadership, startups, and the creativ",
+        "class": "",
+        "rect": {
+          "x": 569,
+          "y": 8010.875,
+          "w": 632,
+          "h": 163.21875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "BACK TO TOP",
+        "class": "mui-asfs99",
+        "rect": {
+          "x": 1338.84375,
+          "y": 1070.984375,
+          "w": 26.296875,
+          "h": 100.015625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "14.3px",
+        "letterSpacing": "0.78px",
+        "color": "rgb(97, 97, 97)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "1px 6px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "class": "mui-vvua8v",
+        "rect": {
+          "x": 1328,
+          "y": 1329,
+          "w": 40,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgba(27, 27, 27, 0.7)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "50%",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "class": "mui-vvua8v",
+        "rect": {
+          "x": 1328,
+          "y": 1381,
+          "w": 40,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgba(27, 27, 27, 0.7)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "50%",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "class": "mui-vvua8v",
+        "rect": {
+          "x": 1328,
+          "y": 1433,
+          "w": 40,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgba(27, 27, 27, 0.7)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "50%",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "class": "mui-vvua8v",
+        "rect": {
+          "x": 1328,
+          "y": 1485,
+          "w": 40,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgba(27, 27, 27, 0.7)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "50%",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "Related resources",
+        "class": "MuiTypography-root MuiTypography-h2 mui-1200i5e",
+        "rect": {
+          "x": 64,
+          "y": 8366.09375,
+          "w": 340.609375,
+          "h": 46.203125
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "44px",
+        "fontWeight": "500",
+        "lineHeight": "46.2px",
+        "letterSpacing": "-0.22px",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "",
+        "class": "swiper-button-prev mui-1jkna3i",
+        "rect": {
+          "x": 1268,
+          "y": 8366.09375,
+          "w": 48,
+          "h": 48
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "27.2px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 27, 27)",
+        "borderRadius": "50%",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "",
+        "class": "swiper-button-next mui-1jkna3i",
+        "rect": {
+          "x": 1328,
+          "y": 8366.09375,
+          "w": 48,
+          "h": 48
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "27.2px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 27, 27)",
+        "borderRadius": "50%",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n3 min read\n\nCompliance Issues When Providing Equipment for Remote Workers\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 64,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 120,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "3 min read",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 180.375,
+          "y": 8738.59375,
+          "w": 75.265625,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 88,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n7 min read\n\nIT Equipment Leasing With Deel IT: Everything You Need to Know\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 480,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 536,
+          "y": 8807.15625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "7 min read",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 596.375,
+          "y": 8809.859375,
+          "w": 74.265625,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 504,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n3 minutes\n\nDeel acquires Hofy\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 896,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 952,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "3 minutes",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 1012.375,
+          "y": 8738.59375,
+          "w": 70.8125,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 920,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n4 min read\n\nIntroducing Deel IT, the only platform to manage IT operations in 130+ countries\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 1312,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 1368,
+          "y": 8807.15625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "4 min read",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 1428.375,
+          "y": 8809.859375,
+          "w": 75.40625,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 1336,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n7 min read\n\nHow to Create a Structured IT Onboarding Process\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 1728,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 1784,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "7 min read",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 1844.375,
+          "y": 8738.59375,
+          "w": 74.265625,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 1752,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n7 min\n\nCertified Data Erasure for Secure and Compliant Device Offboarding\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 2144,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 2200,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "7 min",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 2260.375,
+          "y": 8738.59375,
+          "w": 42.515625,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 2168,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n12 min read\n\nHow Deel IT Saves Time & Money at Every Stage of the Device Lifecycle\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 2560,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 2616,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "12 min read",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 2676.375,
+          "y": 8738.59375,
+          "w": 80.296875,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 2584,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n7 min\n\n4 Reasons to Use Zero Touch Deployment to Supply Devices to Remote Workers\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 2976,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 3032,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "7 min",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 3092.375,
+          "y": 8738.59375,
+          "w": 42.515625,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 3000,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n7 min read\n\n4 Reasons a Late Laptop Will Derail Your Remote Employee Onboarding Process\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 3392,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 3448,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "7 min read",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 3508.375,
+          "y": 8738.59375,
+          "w": 74.265625,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 3416,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n7 min read\n\nHow to Ensure Seamless and Speedy Integration of Global Employees and Their IT Equipment with Deel ",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 3808,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 3864,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "7 min read",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 3924.375,
+          "y": 8738.59375,
+          "w": 74.265625,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 3832,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n9 min\n\nOffboarding Devices in Hard to Reach Places: A Complete Guide\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 4224,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 4280,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "9 min",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 4340.375,
+          "y": 8738.59375,
+          "w": 43.78125,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 4248,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n11 min read\n\nDepreciation of IT Assets: How Bulk Laptop Purchases Can Cut Costs\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 4640,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 4696,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "11 min read",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 4756.375,
+          "y": 8738.59375,
+          "w": 78.015625,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Read more",
+        "class": "mui-g2hv2n",
+        "rect": {
+          "x": 4664,
+          "y": 8943.140625,
+          "w": 107.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Article\n\n12 minutes\n\nThe Most Popular IT Products for Every Team in 2026\nRead more",
+        "class": "mui-oz0jmd",
+        "rect": {
+          "x": 5056,
+          "y": 8462.09375,
+          "w": 416,
+          "h": 545.046875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "12px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Article",
+        "class": "MuiTypography-root MuiTypography-body1 mui-h2s2ut",
+        "rect": {
+          "x": 5112,
+          "y": 8735.890625,
+          "w": 52.375,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossExtendedFont, \"BagossExtendedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "12 minutes",
+        "class": "mui-11cd0lt",
+        "rect": {
+          "x": 5172.375,
+          "y": 8738.59375,
+          "w": 75.84375,
+          "h": 13
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "13px",
+        "letterSpacing": "0.39px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px 0px 0px 8px",
+        "gap": "normal",
+        "maxWidth": "none"
+      }
+    ],
+    "fonts": [],
+    "palette": [
+      [
+        "rgba(0, 0, 0, 0.87)",
+        410
+      ],
+      [
+        "rgb(27, 27, 27)",
+        304
+      ],
+      [
+        "rgba(27, 27, 27, 0.85)",
+        193
+      ],
+      [
+        "rgb(0, 0, 238)",
+        168
+      ],
+      [
+        "rgb(250, 244, 238)",
+        116
+      ],
+      [
+        "rgb(255, 255, 255)",
+        57
+      ],
+      [
+        "rgba(27, 27, 27, 0.16)",
+        23
+      ],
+      [
+        "rgba(0, 0, 0, 0.6)",
+        22
+      ],
+      [
+        "rgb(0, 73, 157)",
+        20
+      ],
+      [
+        "rgb(217, 208, 202)",
+        18
+      ],
+      [
+        "rgba(27, 27, 27, 0.85) rgba(27, 27, 27, 0.85) rgba(27, 27, 27, 0.85) rgba(27, 27, 27, 0.4)",
+        17
+      ],
+      [
+        "rgb(97, 97, 97)",
+        12
+      ],
+      [
+        "rgba(27, 27, 27, 0.7)",
+        10
+      ],
+      [
+        "rgb(0, 0, 0)",
+        7
+      ],
+      [
+        "rgba(0, 0, 0, 0.87) rgba(0, 0, 0, 0.87) rgba(27, 27, 27, 0.16)",
+        4
+      ],
+      [
+        "rgba(254, 240, 216, 0.5)",
+        4
+      ],
+      [
+        "rgba(27, 27, 27, 0.55)",
+        4
+      ],
+      [
+        "rgba(0, 0, 0, 0.87) rgba(0, 0, 0, 0.87) rgba(250, 244, 238, 0.16)",
+        3
+      ],
+      [
+        "rgba(27, 27, 27, 0.16) rgba(0, 0, 0, 0.87) rgba(0, 0, 0, 0.87)",
+        2
+      ],
+      [
+        "rgb(177, 216, 252)",
+        1
+      ],
+      [
+        "rgb(246, 240, 254)",
+        1
+      ],
+      [
+        "rgba(255, 255, 255, 0.9)",
+        1
+      ],
+      [
+        "rgb(255, 226, 124)",
+        1
+      ],
+      [
+        "rgb(219, 238, 255)",
+        1
+      ],
+      [
+        "rgba(0, 0, 0, 0.87) rgba(0, 0, 0, 0.87) rgb(177, 216, 252)",
+        1
+      ],
+      [
+        "rgba(168, 189, 212, 0.3)",
+        1
+      ],
+      [
+        "rgb(98, 77, 227)",
+        1
+      ],
+      [
+        "rgb(255, 251, 244)",
+        1
+      ],
+      [
+        "rgb(83, 169, 69)",
+        1
+      ]
+    ],
+    "stylesheets": [
+      "https://website-media.deel.com/_next/static/css/d97aef8bfe69a937.css",
+      "https://website-media.deel.com/_next/static/css/b5e2bafb7563397c.css",
+      "https://website-media.deel.com/_next/static/css/af7dfb2d62188beb.css",
+      "https://website-media.deel.com/_next/static/css/68721580174141e5.css",
+      "https://website-media.deel.com/_next/static/css/9e4fb54cdbaa5f1a.css",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "images": [
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_revamp_164ddaed0c.svg&w=1920&q=75",
+        "alt": "Deel Logo Black"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Fblack-globe.abc6410e.svg&w=32&q=75",
+        "alt": "blackGlobe-icon"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fmedia.letsdeel.com%2Fflags%2Funited-states.svg&w=16&q=75",
+        "alt": "United States"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FAuthor_Photo_Ellie_Merryweather_aed6ae55ba.jpeg&w=1920&q=75",
+        "alt": "Ellie Merryweather"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FBlog_Hero_746x560_22f44fb663.png&w=750&q=75",
+        "alt": ""
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "",
+        "alt": "Image"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FAuthor_Photo_Ellie_Merryweather_aed6ae55ba.jpeg&w=1920&q=75",
+        "alt": "Ellie Merryweather"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Fsharing-linkedin.edd06a02.svg&w=32&q=75",
+        "alt": "linkedin-icon"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Ftwitter.984d1298.svg&w=32&q=75",
+        "alt": "twitter-icon"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Ffacebook.3d450955.svg&w=16&q=75",
+        "alt": "facebook-icon"
+      },
+      {
+        "src": "",
+        "alt": "Como integrar funcionários remotos: checklist e dicas"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FBlog_Hero_746x560_22f44fb663.png&w=750&q=75",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FBlog_Hero_746x560_22f44fb663.png&w=750&q=75",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": "Two colleagues asking payroll questions"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": "Como integrar funcionários remotos: checklist e dicas"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": ""
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": "Como integrar funcionários remotos: checklist e dicas"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Farticle-icon.950658b8.svg&w=32&q=75",
+        "alt": "articleIcon-icon"
+      },
+      {
+        "src": "",
+        "alt": "Deel Logo White"
+      },
+      {
+        "src": "",
+        "alt": "twitterFilled-icon"
+      },
+      {
+        "src": "",
+        "alt": "linkedinFilled-icon"
+      },
+      {
+        "src": "",
+        "alt": "facebookFilled-icon"
+      },
+      {
+        "src": "",
+        "alt": "instagramFilled-icon"
+      }
+    ],
+    "links": [
+      {
+        "text": "Free HR tools",
+        "href": "https://www.deel.com/global-hiring-toolkit"
+      },
+      {
+        "text": "Press",
+        "href": "https://www.deel.com/press/"
+      }
+    ]
+  }
+}

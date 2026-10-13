@@ -1,0 +1,312 @@
+{
+  "fonts": [
+    {
+      "family": "Inter",
+      "status": "unloaded",
+      "weight": "100 900"
+    },
+    {
+      "family": "Inter",
+      "status": "unloaded",
+      "weight": "100 900"
+    },
+    {
+      "family": "Inter",
+      "status": "unloaded",
+      "weight": "100 900"
+    },
+    {
+      "family": "Inter",
+      "status": "unloaded",
+      "weight": "100 900"
+    },
+    {
+      "family": "Inter",
+      "status": "unloaded",
+      "weight": "100 900"
+    },
+    {
+      "family": "Inter",
+      "status": "unloaded",
+      "weight": "100 900"
+    },
+    {
+      "family": "Inter",
+      "status": "loaded",
+      "weight": "100 900"
+    },
+    {
+      "family": "Inter Fallback",
+      "status": "error",
+      "weight": "normal"
+    },
+    {
+      "family": "BagossCondensedFont",
+      "status": "loaded",
+      "weight": "normal"
+    },
+    {
+      "family": "BagossCondensedFont Fallback",
+      "status": "error",
+      "weight": "normal"
+    },
+    {
+      "family": "BagossExtendedFont",
+      "status": "unloaded",
+      "weight": "500"
+    },
+    {
+      "family": "BagossExtendedFont",
+      "status": "unloaded",
+      "weight": "600"
+    },
+    {
+      "family": "BagossExtendedFont Fallback",
+      "status": "unloaded",
+      "weight": "normal"
+    },
+    {
+      "family": "BagossStandardVF",
+      "status": "loaded",
+      "weight": "normal"
+    },
+    {
+      "family": "BagossStandardVF Fallback",
+      "status": "error",
+      "weight": "normal"
+    }
+  ],
+  "colors": [
+    {
+      "text": "SPECIAL OFFER\n\nGet 3 months free of PEO*\n\nClaim offer",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-r1bhz9",
+      "bg": "rgb(27, 27, 27)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 64
+      }
+    },
+    {
+      "text": "Solutions\nUse cases\nWho we serve\nResources\nPricing\nEN\nLog in\nBook a demo",
+      "tag": "NAV",
+      "class": "mui-8qiahu",
+      "bg": "rgb(255, 255, 255)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 80
+      }
+    },
+    {
+      "text": "Book a demo",
+      "tag": "BUTTON",
+      "class": "mui-1wshw4o",
+      "bg": "rgb(27, 27, 27)",
+      "radius": "200px",
+      "rect": {
+        "w": 117.21875,
+        "h": 40
+      }
+    },
+    {
+      "text": "What is Deel?\n\nDeel is a global payroll and HR platform that helps companie",
+      "tag": "DIV",
+      "class": "bg-surface-secondary flex flex-col items-center",
+      "bg": "rgb(255, 251, 244)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 4097.5625
+      }
+    },
+    {
+      "text": "What is Deel?\n\nDeel is a global payroll and HR platform that helps companie",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-d85kv4",
+      "bg": "rgb(255, 255, 255)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 700
+      }
+    },
+    {
+      "text": "TRUSTED BY 40,000+ COMPANIES FROM STARTUPS TO ENTERPRISE\n\n175 STORIES\nRead ",
+      "tag": "SECTION",
+      "class": "logo-stripe-standard-wrapper w-full px-xxxs md:px-xxxs lg:px-xxl pt-md md:pt-xxl lg:pt-xxxl pb-[40px] bg-surface-white",
+      "bg": "rgb(255, 255, 255)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 292.390625
+      }
+    },
+    {
+      "text": "175 STORIES\nRead about real results",
+      "tag": "DIV",
+      "class": "absolute inset-0 z-20 hidden items-center justify-center opacity-0 transition-opacity duration-500 ease-in-out sm-old:flex sm-old:group-hover:opacity-100 sm-old:pointer-events-none sm-old:group-hover:pointer-events-auto bg-surface-white/50 backdrop-blur-[6px] rounded-[12px]",
+      "bg": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+      "radius": "12px",
+      "rect": {
+        "w": 1312,
+        "h": 136
+      }
+    },
+    {
+      "text": "175 STORIES\nRead about real results",
+      "tag": "A",
+      "class": "flex flex-col sm:flex-row items-center gap-xxs rounded-[100px] bg-[#5938b7] py-2 pl-2 pr-4",
+      "bg": "rgb(89, 56, 183)",
+      "radius": "100px",
+      "rect": {
+        "w": 307.90625,
+        "h": 49
+      }
+    },
+    {
+      "text": "NEWSROOM RESOURCES\n\nAbout Deel\n\nDeel was created to empower companies to el",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-aiaenv",
+      "bg": "rgb(255, 255, 255)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 899.890625
+      }
+    },
+    {
+      "text": "Deel history and vision\n\nLearn how Deel started and where we're headed\n\nLea",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-1iutxri",
+      "bg": "rgb(247, 245, 242)",
+      "radius": "12px",
+      "rect": {
+        "w": 416,
+        "h": 470
+      }
+    },
+    {
+      "text": "Deel leadership\n\nMeet the team behind Deel's global mission\n\nLearn more",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-1iutxri",
+      "bg": "rgb(247, 245, 242)",
+      "radius": "12px",
+      "rect": {
+        "w": 416,
+        "h": 470
+      }
+    },
+    {
+      "text": "Deel Impact\n\nSee how we're creating a fairer world of work\n\nLearn more",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-1iutxri",
+      "bg": "rgb(247, 245, 242)",
+      "radius": "12px",
+      "rect": {
+        "w": 416,
+        "h": 470
+      }
+    },
+    {
+      "text": "Media resources\n\nHave a media inquiry? Please email press@deel.com for pres",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-1eqc51d",
+      "bg": "rgb(255, 255, 255)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 529.484375
+      }
+    },
+    {
+      "text": "Download our press kit of images\n\nAccess our official logos, product screen",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-1eqc51d",
+      "bg": "rgb(255, 255, 255)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 529.40625
+      }
+    },
+    {
+      "text": "Download",
+      "tag": "BUTTON",
+      "class": "mui-x847if",
+      "bg": "rgb(27, 27, 27)",
+      "radius": "200px",
+      "rect": {
+        "w": 108.125,
+        "h": 51
+      }
+    },
+    {
+      "text": "Hear from us!\n\nStay in touch with Deel, explore our content to hear from De",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-aiaenv",
+      "bg": "rgb(255, 255, 255)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 826.59375
+      }
+    },
+    {
+      "text": "Deel Works\n\nStories, insights, and perspectives shaping the future of globa",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-1iutxri",
+      "bg": "rgb(247, 245, 242)",
+      "radius": "12px",
+      "rect": {
+        "w": 640,
+        "h": 442.796875
+      }
+    },
+    {
+      "text": "Company Blog\n\nProduct tips, best practices, and the latest news from Deel.\n",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-1iutxri",
+      "bg": "rgb(247, 245, 242)",
+      "radius": "12px",
+      "rect": {
+        "w": 640,
+        "h": 442.796875
+      }
+    },
+    {
+      "text": "Customer support\n\nIf you’re a customer, we’ve got you covered. Browse our H",
+      "tag": "DIV",
+      "class": "MuiBox-root mui-1quf9mf",
+      "bg": "rgb(255, 255, 255)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 319.796875
+      }
+    },
+    {
+      "text": "About us\n\nLeadership team\n\nCareers\n\nPricing\n\nSolutions\n\nDeel Payroll\n\nDeel ",
+      "tag": "FOOTER",
+      "class": "mui-1aarjlu",
+      "bg": "rgb(27, 27, 27)",
+      "radius": "0px",
+      "rect": {
+        "w": 1440,
+        "h": 963.171875
+      }
+    },
+    {
+      "text": "",
+      "tag": "INPUT",
+      "class": "mui-9t3ayb",
+      "bg": "rgb(255, 255, 255)",
+      "radius": "200px",
+      "rect": {
+        "w": 505.5,
+        "h": 60
+      }
+    }
+  ]
+}

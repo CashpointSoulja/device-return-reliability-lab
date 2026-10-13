@@ -1,0 +1,3702 @@
+{
+  "name": "press",
+  "url": "https://www.deel.com/press/",
+  "status": 200,
+  "title": "About Deel | Mission, Leadership & Press Resources",
+  "text": "SPECIAL OFFER\n\nGet 3 months free of PEO*\n\nClaim offer\nSolutions\nUse cases\nWho we serve\nResources\nPricing\nEN\nLog in\nBook a demo\nWhat is Deel?\n\nDeel is a global payroll and HR platform that helps companies hire, manage, pay, and equip any worker, anywhere. It is one platform for payroll, HR, benefits, mobility, performance and device management across 150 countries. Built on owned infrastructure, powered by AI and supported by thousands of local experts, Deel helps businesses scale smarter, faster and more compliantly.\n\nTrusted by 40,000+ customers, Deel handles the complexities of global employment and alleviates compliance concerns when hiring and growing internationally.\n\nAt just over seven years old, Deel has surpassed $1.5bn in revenue and has a valuation of $17.3bn.\n\nTRUSTED BY 40,000+ COMPANIES FROM STARTUPS TO ENTERPRISE\n\n175 STORIES\nRead about real results\n\nNEWSROOM RESOURCES\n\nAbout Deel\n\nDeel was created to empower companies to eliminate hiring borders so anyone, anywhere in the world, could access new opportunities.\n\nDeel history and vision\n\nLearn how Deel started and where we're headed\n\nLearn more\nDeel leadership\n\nMeet the team behind Deel's global mission\n\nLearn more\nDeel Impact\n\nSee how we're creating a fairer world of work\n\nLearn more\nMedia resources\n\nHave a media inquiry? Please email press@deel.com for press-related requests, including interviews, comments, and brand assets.\n\nPlease note this mailbox can’t respond to customer requests.\n\nDownload our press kit of images\n\nAccess our official logos, product screenshots, and team photos — all royalty free for online or print use.\n\nDownload\nHear from us!\n\nStay in touch with Deel, explore our content to hear from Deel executives, HR professionals, and industry experts\n\nDeel Works\n\nStories, insights, and perspectives shaping the future of global work.\n\nVisit Deel Works\nCompany Blog\n\nProduct tips, best practices, and the latest news from Deel.\n\nVisit Deel's Blog\nCustomer support\n\nIf you’re a customer, we’ve got you covered. Browse our Help Center for common Q&A, or speak to us directly please Log in here and go to https://app.deel.com/help/messages.\n\nAbout us\n\nLeadership team\n\nCareers\n\nPricing\n\nSolutions\n\nDeel Payroll\n\nDeel HR\n\nDeel IT\n\nDeel Benefits\n\nDeel Hire\n\nDeel Mobility\n\nDeel Embedded\n\nDeel Services\n\nEOR\n\nPEO\n\nAll Solutions\n\nDeel Platform\n\nHR Platform\n\nDeel AI\n\nWhite Label\n\nDeel API\n\nIntegrations\n\nWorkflows\n\nAkai\n\nPlatform Status\n\nWhy Deel?\n\nBuilt on in-house infrastructure\n\nCustomer stories\n\nCompare Deel\n\nSecurity\n\nTrust Center\n\nBecome a partner\n\nBecome an affiliate\n\nG2 customer reviews\n\nResources\n\nBlog\n\nTemplates And Guides\n\nGlobal Hiring Guides\n\nWebinars & Events\n\nGlobal Work Glossary\n\nDeel Impact\n\nJob Description Templates\n\nFree HR tools\n\nAPI Documentation\n\nCompliance Verification FAQ\n\nHelp Center\n\nPress\n\nCustomers\n\nRevolut\n\nFICO\n\nPuma\n\nOutreach\n\nZip Co\n\nDirectional Pizza\n\nGet the latest insights on today's world of work delivered straight to your inbox.\n\nI confirm that I have read Deel’s Privacy Policy and agree with it.\n\n© Copyright 2026. All Rights Reserved.\n\nDisclaimer\n\nPrivacy Policy\n\nCookie Settings\n\nLegal Hub\n\nWhistleblower Policy\n\nDisclosures\n\nLicenses and Compliance",
+  "dom": {
+    "samples": [
+      {
+        "tag": "P",
+        "text": "Get 3 months free of PEO*",
+        "class": "",
+        "rect": {
+          "x": 622.859375,
+          "y": 20.09375,
+          "w": 179.96875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "600",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Claim offer",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 818.828125,
+          "y": 16,
+          "w": 85.359375,
+          "h": 32
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Claim offer",
+        "class": "mui-1rh4x73",
+        "rect": {
+          "x": 818.828125,
+          "y": 16,
+          "w": 85.359375,
+          "h": 32
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "500",
+        "lineHeight": "20.4px",
+        "letterSpacing": "0.18px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "borderRadius": "200px",
+        "padding": "6px 12px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "",
+        "class": "mui-1au098y",
+        "rect": {
+          "x": 1352,
+          "y": 20,
+          "w": 24,
+          "h": 24
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "27.2px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "50%",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "",
+        "class": "mui-1betn9n",
+        "rect": {
+          "x": 64,
+          "y": 90,
+          "w": 78,
+          "h": 28
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Solutions",
+        "class": "mui-1fo3fxi",
+        "rect": {
+          "x": 194,
+          "y": 84,
+          "w": 95.3125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "0.375px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Use cases",
+        "class": "mui-1fo3fxi",
+        "rect": {
+          "x": 317.3125,
+          "y": 84,
+          "w": 100.265625,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "0.375px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Who we serve",
+        "class": "mui-1fo3fxi",
+        "rect": {
+          "x": 445.578125,
+          "y": 84,
+          "w": 127.484375,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "0.375px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Resources",
+        "class": "mui-1fo3fxi",
+        "rect": {
+          "x": 601.0625,
+          "y": 84,
+          "w": 103.65625,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "0.375px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Pricing",
+        "class": "mui-1moi9ht",
+        "rect": {
+          "x": 732.71875,
+          "y": 84,
+          "w": 50.203125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "15px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "0.375px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "EN",
+        "class": "flex items-center gap-2 px-3 py-2 rounded-full bg-transparent transition-all duration-200 border-0 hover:bg-orange-50/80",
+        "rect": {
+          "x": 1091.53125,
+          "y": 86,
+          "w": 68.109375,
+          "h": 36
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13.3333px",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "3.35544e+07px",
+        "padding": "8px 12px",
+        "gap": "8px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Log in",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 1167.640625,
+          "y": 84,
+          "w": 75.140625,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Log in",
+        "class": "hidden-phone mui-ti8o1k",
+        "rect": {
+          "x": 1167.640625,
+          "y": 84,
+          "w": 75.140625,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Book a demo",
+        "class": "mui-1wshw4o",
+        "rect": {
+          "x": 1258.78125,
+          "y": 84,
+          "w": 117.21875,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 27, 27)",
+        "borderRadius": "200px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H1",
+        "text": "What is Deel?",
+        "class": "MuiTypography-root MuiTypography-h1 mui-1ymdhvj",
+        "rect": {
+          "x": 64,
+          "y": 261.8125,
+          "w": 540,
+          "h": 58.796875
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "56px",
+        "fontWeight": "500",
+        "lineHeight": "58.8px",
+        "letterSpacing": "-0.28px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel is a global payroll and HR platform that helps companies hire, manage, pay, and equip any worker, anywhere. It is o",
+        "class": "",
+        "rect": {
+          "x": 64,
+          "y": 340.609375,
+          "w": 540,
+          "h": 201.578125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "28.8px",
+        "letterSpacing": "-0.09px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Trusted by 40,000+ customers, Deel handles the complexities of global employment and alleviates compliance concerns when",
+        "class": "",
+        "rect": {
+          "x": 64,
+          "y": 562.1875,
+          "w": 540,
+          "h": 86.390625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "28.8px",
+        "letterSpacing": "-0.09px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "At just over seven years old, Deel has surpassed $1.5bn in revenue and has a valuation of $17.3bn.",
+        "class": "",
+        "rect": {
+          "x": 64,
+          "y": 668.578125,
+          "w": 540,
+          "h": 57.59375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "28.8px",
+        "letterSpacing": "-0.09px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "TRUSTED BY 40,000+ COMPANIES FROM STARTUPS TO ENTERPRISE",
+        "class": "m-0 text-tertiary overline-small-semibold text-center w-full uppercase",
+        "rect": {
+          "x": 64,
+          "y": 924,
+          "w": 1312,
+          "h": 20.390625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "700",
+        "lineHeight": "20.4px",
+        "letterSpacing": "0.72px",
+        "color": "rgba(27, 27, 27, 0.7)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "175 STORIES\nRead about real results",
+        "class": "flex flex-col sm:flex-row items-center gap-xxs rounded-[100px] bg-[#5938b7] py-2 pl-2 pr-4",
+        "rect": {
+          "x": 566.046875,
+          "y": 1003.890625,
+          "w": 307.90625,
+          "h": 49
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(0, 0, 238)",
+        "backgroundColor": "rgb(89, 56, 183)",
+        "borderRadius": "100px",
+        "padding": "8px 16px 8px 8px",
+        "gap": "16px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "NEWSROOM RESOURCES",
+        "class": "MuiTypography-root MuiTypography-body1 mui-f42541",
+        "rect": {
+          "x": 632.359375,
+          "y": 1232.390625,
+          "w": 175.265625,
+          "h": 22.09375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "22.1px",
+        "letterSpacing": "0.78px",
+        "color": "rgba(27, 27, 27, 0.7)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "About Deel",
+        "class": "MuiTypography-root MuiTypography-h2 mui-1caz1i9",
+        "rect": {
+          "x": 614.875,
+          "y": 1278.484375,
+          "w": 210.234375,
+          "h": 46.203125
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "44px",
+        "fontWeight": "500",
+        "lineHeight": "46.2px",
+        "letterSpacing": "-0.22px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel was created to empower companies to eliminate hiring borders so anyone, anywhere in the world, could access new opp",
+        "class": "MuiTypography-root MuiTypography-body1 mui-vrifut",
+        "rect": {
+          "x": 386.5,
+          "y": 1348.6875,
+          "w": 667,
+          "h": 57.59375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "28.8px",
+        "letterSpacing": "-0.09px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "Deel history and vision",
+        "class": "MuiTypography-root MuiTypography-h3 font-feature-2 mui-1n0rsa3",
+        "rect": {
+          "x": 96,
+          "y": 1770.28125,
+          "w": 352,
+          "h": 27.59375
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "500",
+        "lineHeight": "27.6px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Learn how Deel started and where we're headed",
+        "class": "MuiTypography-root MuiTypography-body1 font-feature-1 mui-l3tqwc",
+        "rect": {
+          "x": 96,
+          "y": 1805.875,
+          "w": 352,
+          "h": 54.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Learn more",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 80,
+          "y": 1868.28125,
+          "w": 131.03125,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Learn more",
+        "class": "mui-11bijla",
+        "rect": {
+          "x": 80,
+          "y": 1868.28125,
+          "w": 131.03125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "Deel leadership",
+        "class": "MuiTypography-root MuiTypography-h3 font-feature-2 mui-1n0rsa3",
+        "rect": {
+          "x": 544,
+          "y": 1770.28125,
+          "w": 352,
+          "h": 27.59375
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "500",
+        "lineHeight": "27.6px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Meet the team behind Deel's global mission",
+        "class": "MuiTypography-root MuiTypography-body1 font-feature-1 mui-l3tqwc",
+        "rect": {
+          "x": 544,
+          "y": 1805.875,
+          "w": 352,
+          "h": 27.203125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Learn more",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 528,
+          "y": 1868.28125,
+          "w": 131.03125,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Learn more",
+        "class": "mui-11bijla",
+        "rect": {
+          "x": 528,
+          "y": 1868.28125,
+          "w": 131.03125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "Deel Impact",
+        "class": "MuiTypography-root MuiTypography-h3 font-feature-2 mui-1n0rsa3",
+        "rect": {
+          "x": 992,
+          "y": 1770.28125,
+          "w": 352,
+          "h": 27.59375
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "500",
+        "lineHeight": "27.6px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "See how we're creating a fairer world of work",
+        "class": "MuiTypography-root MuiTypography-body1 font-feature-1 mui-l3tqwc",
+        "rect": {
+          "x": 992,
+          "y": 1805.875,
+          "w": 352,
+          "h": 27.203125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Learn more",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 976,
+          "y": 1868.28125,
+          "w": 131.03125,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Learn more",
+        "class": "mui-11bijla",
+        "rect": {
+          "x": 976,
+          "y": 1868.28125,
+          "w": 131.03125,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "Media resources",
+        "class": "MuiTypography-root MuiTypography-h2 mui-gelyp0",
+        "rect": {
+          "x": 64,
+          "y": 2217.109375,
+          "w": 528,
+          "h": 46.203125
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "44px",
+        "fontWeight": "500",
+        "lineHeight": "46.2px",
+        "letterSpacing": "-0.22px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Have a media inquiry? Please email press@deel.com for press-related requests, including interviews, comments, and brand ",
+        "class": "",
+        "rect": {
+          "x": 64,
+          "y": 2283.3125,
+          "w": 528,
+          "h": 54.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "press@deel.com",
+        "class": "",
+        "rect": {
+          "x": 332.15625,
+          "y": 2286.3125,
+          "w": 126.9375,
+          "h": 20
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "460",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Please note this mailbox can’t respond to customer requests.",
+        "class": "",
+        "rect": {
+          "x": 64,
+          "y": 2357.71875,
+          "w": 528,
+          "h": 27.203125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "Download our press kit of images",
+        "class": "MuiTypography-root MuiTypography-h2 mui-gelyp0",
+        "rect": {
+          "x": 848,
+          "y": 2711.5625,
+          "w": 528,
+          "h": 92.40625
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "44px",
+        "fontWeight": "500",
+        "lineHeight": "46.2px",
+        "letterSpacing": "-0.22px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Access our official logos, product screenshots, and team photos — all royalty free for online or print use.",
+        "class": "",
+        "rect": {
+          "x": 848,
+          "y": 2823.96875,
+          "w": 528,
+          "h": 54.40625
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Download",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 848,
+          "y": 2898.375,
+          "w": 108.125,
+          "h": 51
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Download",
+        "class": "mui-x847if",
+        "rect": {
+          "x": 848,
+          "y": 2898.375,
+          "w": 108.125,
+          "h": 51
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "27.2px",
+        "letterSpacing": "0.24px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(27, 27, 27)",
+        "borderRadius": "200px",
+        "padding": "12px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "Hear from us!",
+        "class": "MuiTypography-root MuiTypography-h2 mui-1caz1i9",
+        "rect": {
+          "x": 594.171875,
+          "y": 3191.171875,
+          "w": 251.640625,
+          "h": 46.203125
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "44px",
+        "fontWeight": "500",
+        "lineHeight": "46.2px",
+        "letterSpacing": "-0.22px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Stay in touch with Deel, explore our content to hear from Deel executives, HR professionals, and industry experts",
+        "class": "MuiTypography-root MuiTypography-body1 mui-vrifut",
+        "rect": {
+          "x": 386.5,
+          "y": 3261.375,
+          "w": 667,
+          "h": 57.59375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "28.8px",
+        "letterSpacing": "-0.09px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "Deel Works",
+        "class": "MuiTypography-root MuiTypography-h3 font-feature-2 mui-1n0rsa3",
+        "rect": {
+          "x": 96,
+          "y": 3682.96875,
+          "w": 576,
+          "h": 27.59375
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "500",
+        "lineHeight": "27.6px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Stories, insights, and perspectives shaping the future of global work.",
+        "class": "MuiTypography-root MuiTypography-body1 font-feature-1 mui-l3tqwc",
+        "rect": {
+          "x": 96,
+          "y": 3718.5625,
+          "w": 576,
+          "h": 27.203125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Visit Deel Works",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 80,
+          "y": 3753.765625,
+          "w": 161.109375,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Visit Deel Works",
+        "class": "mui-11bijla",
+        "rect": {
+          "x": 80,
+          "y": 3753.765625,
+          "w": 161.109375,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "Company Blog",
+        "class": "MuiTypography-root MuiTypography-h3 font-feature-2 mui-1n0rsa3",
+        "rect": {
+          "x": 768,
+          "y": 3682.96875,
+          "w": 576,
+          "h": 27.59375
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "500",
+        "lineHeight": "27.6px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Product tips, best practices, and the latest news from Deel.",
+        "class": "MuiTypography-root MuiTypography-body1 font-feature-1 mui-l3tqwc",
+        "rect": {
+          "x": 768,
+          "y": 3718.5625,
+          "w": 576,
+          "h": 27.203125
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "27.2px",
+        "letterSpacing": "-0.08px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Visit Deel's Blog",
+        "class": "mui-15k05j0",
+        "rect": {
+          "x": 752,
+          "y": 3753.765625,
+          "w": 159.15625,
+          "h": 40
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "BUTTON",
+        "text": "Visit Deel's Blog",
+        "class": "mui-11bijla",
+        "rect": {
+          "x": 752,
+          "y": 3753.765625,
+          "w": 159.15625,
+          "h": 40
+        },
+        "fontFamily": "BagossStandardVF, \"BagossStandardVF Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "23.8px",
+        "letterSpacing": "0.21px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "8px 16px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H2",
+        "text": "Customer support",
+        "class": "MuiTypography-root MuiTypography-h2 centered mui-1j1zadd",
+        "rect": {
+          "x": 547,
+          "y": 4017.765625,
+          "w": 345.984375,
+          "h": 46.203125
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "44px",
+        "fontWeight": "500",
+        "lineHeight": "46.2px",
+        "letterSpacing": "-0.22px",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "If you’re a customer, we’ve got you covered. Browse our Help Center for common Q&A, or speak to us directly please Log i",
+        "class": "",
+        "rect": {
+          "x": 320,
+          "y": 4087.96875,
+          "w": 800,
+          "h": 57.59375
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "28.8px",
+        "letterSpacing": "-0.09px",
+        "color": "rgba(27, 27, 27, 0.85)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Help Center",
+        "class": "",
+        "rect": {
+          "x": 820.203125,
+          "y": 4090.96875,
+          "w": 101.15625,
+          "h": 21
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "460",
+        "lineHeight": "28.8px",
+        "letterSpacing": "-0.09px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Log in here",
+        "class": "",
+        "rect": {
+          "x": 583.90625,
+          "y": 4119.765625,
+          "w": 94.578125,
+          "h": 21
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "460",
+        "lineHeight": "28.8px",
+        "letterSpacing": "-0.09px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "https://app.deel.com/help/messages.",
+        "class": "",
+        "rect": {
+          "x": 767.859375,
+          "y": 4119.765625,
+          "w": 318.09375,
+          "h": 21
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "460",
+        "lineHeight": "28.8px",
+        "letterSpacing": "-0.09px",
+        "color": "rgb(0, 73, 157)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "About us",
+        "class": "mui-i1l04d",
+        "rect": {
+          "x": 64,
+          "y": 4289.5625,
+          "w": 60.4375,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "About us",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4289.5625,
+          "w": 60.4375,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "560",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Leadership team",
+        "class": "mui-i1l04d",
+        "rect": {
+          "x": 148.4375,
+          "y": 4289.5625,
+          "w": 112.53125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Leadership team",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 148.4375,
+          "y": 4289.5625,
+          "w": 112.53125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "560",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Careers",
+        "class": "mui-i1l04d",
+        "rect": {
+          "x": 284.96875,
+          "y": 4289.5625,
+          "w": 53.171875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Careers",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 284.96875,
+          "y": 4289.5625,
+          "w": 53.171875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "560",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Pricing",
+        "class": "mui-i1l04d",
+        "rect": {
+          "x": 362.140625,
+          "y": 4289.5625,
+          "w": 47.203125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Pricing",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 362.140625,
+          "y": 4289.5625,
+          "w": 47.203125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "560",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "Solutions",
+        "class": "MuiTypography-root MuiTypography-h3 mui-grid8g",
+        "rect": {
+          "x": 64,
+          "y": 4410.359375,
+          "w": 236.796875,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel Payroll",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4444.765625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel Payroll",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4444.765625,
+          "w": 78.4375,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel HR",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4480.5625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel HR",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4480.5625,
+          "w": 53.171875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel IT",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4516.359375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel IT",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4516.359375,
+          "w": 46.5625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel Benefits",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4552.15625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel Benefits",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4552.15625,
+          "w": 87.921875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel Hire",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4587.953125,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel Hire",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4587.953125,
+          "w": 60.765625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel Mobility",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4623.75,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel Mobility",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4623.75,
+          "w": 86.265625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel Embedded",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4659.546875,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel Embedded",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4659.546875,
+          "w": 105.0625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel Services",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4695.34375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel Services",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4695.34375,
+          "w": 91.203125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "EOR",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4731.140625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "EOR",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4731.140625,
+          "w": 28.140625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "PEO",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4766.9375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "PEO",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4766.9375,
+          "w": 28.0625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "All Solutions",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 64,
+          "y": 4802.734375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "All Solutions",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 64,
+          "y": 4802.734375,
+          "w": 81.453125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "Deel Platform",
+        "class": "MuiTypography-root MuiTypography-h3 mui-grid8g",
+        "rect": {
+          "x": 332.796875,
+          "y": 4410.359375,
+          "w": 236.796875,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "HR Platform",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 332.796875,
+          "y": 4444.765625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "HR Platform",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 332.796875,
+          "y": 4444.765625,
+          "w": 78.703125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel AI",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 332.796875,
+          "y": 4480.5625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel AI",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 332.796875,
+          "y": 4480.5625,
+          "w": 47.1875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "White Label",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 332.796875,
+          "y": 4516.359375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "White Label",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 332.796875,
+          "y": 4516.359375,
+          "w": 77.921875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel API",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 332.796875,
+          "y": 4552.15625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel API",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 332.796875,
+          "y": 4552.15625,
+          "w": 56.125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Integrations",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 332.796875,
+          "y": 4587.953125,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Integrations",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 332.796875,
+          "y": 4587.953125,
+          "w": 78.390625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Workflows",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 332.796875,
+          "y": 4623.75,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Workflows",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 332.796875,
+          "y": 4623.75,
+          "w": 70.21875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Akai",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 332.796875,
+          "y": 4659.546875,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Akai",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 332.796875,
+          "y": 4659.546875,
+          "w": 28.609375,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Platform Status",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 332.796875,
+          "y": 4695.34375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Platform Status",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 332.796875,
+          "y": 4695.34375,
+          "w": 101.03125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "Why Deel?",
+        "class": "MuiTypography-root MuiTypography-h3 mui-grid8g",
+        "rect": {
+          "x": 601.59375,
+          "y": 4410.359375,
+          "w": 236.796875,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Built on in-house infrastructure",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 601.59375,
+          "y": 4444.765625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Built on in-house infrastructure",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 601.59375,
+          "y": 4444.765625,
+          "w": 205.640625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Customer stories",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 601.59375,
+          "y": 4480.5625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Customer stories",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 601.59375,
+          "y": 4480.5625,
+          "w": 112.953125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Compare Deel",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 601.59375,
+          "y": 4516.359375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Compare Deel",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 601.59375,
+          "y": 4516.359375,
+          "w": 94.421875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Security",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 601.59375,
+          "y": 4552.15625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Security",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 601.59375,
+          "y": 4552.15625,
+          "w": 54.953125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Trust Center",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 601.59375,
+          "y": 4587.953125,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Trust Center",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 601.59375,
+          "y": 4587.953125,
+          "w": 82.25,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Become a partner",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 601.59375,
+          "y": 4623.75,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Become a partner",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 601.59375,
+          "y": 4623.75,
+          "w": 118.234375,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Become an affiliate",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 601.59375,
+          "y": 4659.546875,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Become an affiliate",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 601.59375,
+          "y": 4659.546875,
+          "w": 126.46875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "G2 customer reviews",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 601.59375,
+          "y": 4695.34375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "G2 customer reviews",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 601.59375,
+          "y": 4695.34375,
+          "w": 140,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "Resources",
+        "class": "MuiTypography-root MuiTypography-h3 mui-grid8g",
+        "rect": {
+          "x": 870.390625,
+          "y": 4410.359375,
+          "w": 236.796875,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Blog",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4444.765625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Blog",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4444.765625,
+          "w": 29.53125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Templates And Guides",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4480.5625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Templates And Guides",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4480.5625,
+          "w": 148.8125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Global Hiring Guides",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4516.359375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Global Hiring Guides",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4516.359375,
+          "w": 135.765625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Webinars & Events",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4552.15625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Webinars & Events",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4552.15625,
+          "w": 123.171875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Global Work Glossary",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4587.953125,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Global Work Glossary",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4587.953125,
+          "w": 142.953125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Deel Impact",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4623.75,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Deel Impact",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4623.75,
+          "w": 78.9375,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Job Description Templates",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4659.546875,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Job Description Templates",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4659.546875,
+          "w": 176.6875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Free HR tools",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4695.34375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Free HR tools",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4695.34375,
+          "w": 88.53125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "API Documentation",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4731.140625,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "API Documentation",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4731.140625,
+          "w": 126.921875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Compliance Verification FAQ",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4766.9375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Compliance Verification FAQ",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4766.9375,
+          "w": 188.40625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Help Center",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4802.734375,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Help Center",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4802.734375,
+          "w": 79.015625,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Press",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 870.390625,
+          "y": 4838.53125,
+          "w": 236.796875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "P",
+        "text": "Press",
+        "class": "mui-1711c28",
+        "rect": {
+          "x": 870.390625,
+          "y": 4838.53125,
+          "w": 36.921875,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "23.8px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "H3",
+        "text": "Customers",
+        "class": "MuiTypography-root MuiTypography-h3 mui-grid8g",
+        "rect": {
+          "x": 1139.1875,
+          "y": 4410.359375,
+          "w": 236.8125,
+          "h": 18.40625
+        },
+        "fontFamily": "BagossCondensedFont, \"BagossCondensedFont Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "18.4px",
+        "letterSpacing": "normal",
+        "color": "rgb(250, 244, 238)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none"
+      },
+      {
+        "tag": "A",
+        "text": "Revolut",
+        "class": "mui-8141xw",
+        "rect": {
+          "x": 1139.1875,
+          "y": 4444.765625,
+          "w": 236.8125,
+          "h": 23.796875
+        },
+        "fontFamily": "Inter, \"Inter Fallback\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "rgb(27, 27, 27)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "borderRadius": "0px",
+        "padding": "0px",
+        "gap": "4px",
+        "maxWidth": "none"
+      }
+    ],
+    "fonts": [],
+    "palette": [
+      [
+        "rgba(0, 0, 0, 0.87)",
+        567
+      ],
+      [
+        "rgb(27, 27, 27)",
+        259
+      ],
+      [
+        "rgb(250, 244, 238)",
+        116
+      ],
+      [
+        "rgb(255, 255, 255)",
+        31
+      ],
+      [
+        "rgba(27, 27, 27, 0.85)",
+        24
+      ],
+      [
+        "rgb(0, 0, 238)",
+        18
+      ],
+      [
+        "rgb(217, 208, 202)",
+        18
+      ],
+      [
+        "rgb(0, 73, 157)",
+        8
+      ],
+      [
+        "rgb(0, 0, 0)",
+        7
+      ],
+      [
+        "rgb(247, 245, 242)",
+        5
+      ],
+      [
+        "rgba(27, 27, 27, 0.7)",
+        4
+      ],
+      [
+        "rgba(0, 0, 0, 0.87) rgba(0, 0, 0, 0.87) rgba(250, 244, 238, 0.16)",
+        3
+      ],
+      [
+        "rgba(27, 27, 27, 0.16)",
+        2
+      ],
+      [
+        "rgb(56, 31, 137)",
+        2
+      ],
+      [
+        "rgb(177, 216, 252)",
+        1
+      ],
+      [
+        "rgb(255, 251, 244)",
+        1
+      ],
+      [
+        "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+        1
+      ],
+      [
+        "rgb(89, 56, 183)",
+        1
+      ],
+      [
+        "rgb(196, 177, 249)",
+        1
+      ],
+      [
+        "rgb(83, 169, 69)",
+        1
+      ]
+    ],
+    "stylesheets": [
+      "https://website-media.deel.com/_next/static/css/d97aef8bfe69a937.css",
+      "https://website-media.deel.com/_next/static/css/b5e2bafb7563397c.css",
+      "https://website-media.deel.com/_next/static/css/af7dfb2d62188beb.css",
+      "https://website-media.deel.com/_next/static/css/68721580174141e5.css",
+      "https://website-media.deel.com/_next/static/css/9e4fb54cdbaa5f1a.css",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "images": [
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_revamp_164ddaed0c.svg&w=1920&q=75",
+        "alt": "Deel Logo Black"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2F_next%2Fstatic%2Fmedia%2Fblack-globe.abc6410e.svg&w=32&q=75",
+        "alt": "blackGlobe-icon"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fmedia.letsdeel.com%2Fflags%2Funited-states.svg&w=16&q=75",
+        "alt": "United States"
+      },
+      {
+        "src": "https://website-media.deel.com/large_what_is_deel_dfb3ce0761.webp",
+        "alt": "Image"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_gbv_5e751a9a5c.svg&w=256&q=75",
+        "alt": "Company logo 1"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_a16z_c17319a0d5.svg&w=256&q=75",
+        "alt": "Company logo 2"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_altimeter_7bcca1fa1a.svg&w=256&q=75",
+        "alt": "Company logo 3"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_ycombinator_834d3e9f17.svg&w=256&q=75",
+        "alt": "Company logo 4"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_neo_fd6a4b0bf1.svg&w=256&q=75",
+        "alt": "Company logo 5"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_emerson_collective_e323c76cee.svg&w=256&q=75",
+        "alt": "Company logo 6"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_spark_capital_857a9a1fac.svg&w=256&q=75",
+        "alt": "Company logo 7"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fmuji_a588e76130.svg&w=256&q=75",
+        "alt": "Company logo 8"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FLogoki_ba7b794e12.svg&w=256&q=75",
+        "alt": "Company logo 9"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FBalenciaga_Logo_3c70c251ee.svg&w=256&q=75",
+        "alt": "Company logo 10"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FCanva_Logo_1_90c23958f7.svg&w=256&q=75",
+        "alt": "Company logo 11"
+      },
+      {
+        "src": "",
+        "alt": "Company logo 12"
+      },
+      {
+        "src": "",
+        "alt": "Company logo 13"
+      },
+      {
+        "src": "",
+        "alt": "Company logo 14"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_gbv_5e751a9a5c.svg&w=256&q=75",
+        "alt": "Company logo 15"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_a16z_c17319a0d5.svg&w=256&q=75",
+        "alt": "Company logo 16"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_altimeter_7bcca1fa1a.svg&w=256&q=75",
+        "alt": "Company logo 17"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_ycombinator_834d3e9f17.svg&w=256&q=75",
+        "alt": "Company logo 18"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_neo_fd6a4b0bf1.svg&w=256&q=75",
+        "alt": "Company logo 19"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_emerson_collective_e323c76cee.svg&w=256&q=75",
+        "alt": "Company logo 20"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_investor_spark_capital_857a9a1fac.svg&w=256&q=75",
+        "alt": "Company logo 21"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fmuji_a588e76130.svg&w=256&q=75",
+        "alt": "Company logo 22"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FLogoki_ba7b794e12.svg&w=256&q=75",
+        "alt": "Company logo 23"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FBalenciaga_Logo_3c70c251ee.svg&w=256&q=75",
+        "alt": "Company logo 24"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FCanva_Logo_1_90c23958f7.svg&w=256&q=75",
+        "alt": "Company logo 25"
+      },
+      {
+        "src": "",
+        "alt": "Company logo 26"
+      },
+      {
+        "src": "",
+        "alt": "Company logo 27"
+      },
+      {
+        "src": "",
+        "alt": "Company logo 28"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FDoor_Dash_Logo_e52471ae77.svg&w=256&q=75",
+        "alt": "Company logo 1"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_KLM_2dcf79f5c9.svg&w=256&q=75",
+        "alt": "Company logo 2"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FLucid_Motors_logo_289a758b49.svg&w=256&q=75",
+        "alt": "Company logo 3"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fpuma_logo_8574e3d454.svg&w=256&q=75",
+        "alt": "Company logo 4"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flockhead_logo_aac9270f83.svg&w=256&q=75",
+        "alt": "Company logo 5"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FZillow_logo_1_5c75d27ffc.svg&w=256&q=75",
+        "alt": "Company logo 6"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flinkedin_logo_4a30bc2ea7.svg&w=256&q=75",
+        "alt": "Company logo 7"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fve_Logo_12ce1a8ef6.svg&w=256&q=75",
+        "alt": "Company logo 8"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fiee_logo_986f0cdfaf.svg&w=256&q=75",
+        "alt": "Company logo 9"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fre_logo_b11ff3c938.svg&w=256&q=75",
+        "alt": "Company logo 10"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FHersheys_1c5efab234.svg&w=256&q=75",
+        "alt": "Company logo 11"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Frol_8afbc30081.svg&w=256&q=75",
+        "alt": "Company logo 12"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FDoor_Dash_Logo_e52471ae77.svg&w=256&q=75",
+        "alt": "Company logo 13"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flogo_KLM_2dcf79f5c9.svg&w=256&q=75",
+        "alt": "Company logo 14"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FLucid_Motors_logo_289a758b49.svg&w=256&q=75",
+        "alt": "Company logo 15"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fpuma_logo_8574e3d454.svg&w=256&q=75",
+        "alt": "Company logo 16"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flockhead_logo_aac9270f83.svg&w=256&q=75",
+        "alt": "Company logo 17"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FZillow_logo_1_5c75d27ffc.svg&w=256&q=75",
+        "alt": "Company logo 18"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Flinkedin_logo_4a30bc2ea7.svg&w=256&q=75",
+        "alt": "Company logo 19"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fve_Logo_12ce1a8ef6.svg&w=256&q=75",
+        "alt": "Company logo 20"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fiee_logo_986f0cdfaf.svg&w=256&q=75",
+        "alt": "Company logo 21"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fre_logo_b11ff3c938.svg&w=256&q=75",
+        "alt": "Company logo 22"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FHersheys_1c5efab234.svg&w=256&q=75",
+        "alt": "Company logo 23"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Frol_8afbc30081.svg&w=256&q=75",
+        "alt": "Company logo 24"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fdeel_leadership_2x_cd9168cf4e.webp&w=1920&q=75",
+        "alt": "Image"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2FDeel_leadership_65ab13ad14.png&w=1920&q=75",
+        "alt": "Image"
+      },
+      {
+        "src": "https://www.deel.com/_next/image/?url=https%3A%2F%2Fwebsite-media.deel.com%2Fdeel_impact_2x_aa137bc63a.webp&w=1920&q=75",
+        "alt": "Image"
+      },
+      {
+        "src": "https://website-media.deel.com/medium_media_resources_2x_e70668c839.webp",
+        "alt": "Image"
+      },
+      {
+        "src": "",
+        "alt": "Image"
+      },
+      {
+        "src": "",
+        "alt": "Image"
+      },
+      {
+        "src": "",
+        "alt": "Image"
+      },
+      {
+        "src": "",
+        "alt": "Deel Logo White"
+      },
+      {
+        "src": "",
+        "alt": "twitterFilled-icon"
+      },
+      {
+        "src": "",
+        "alt": "linkedinFilled-icon"
+      },
+      {
+        "src": "",
+        "alt": "facebookFilled-icon"
+      },
+      {
+        "src": "",
+        "alt": "instagramFilled-icon"
+      }
+    ],
+    "links": [
+      {
+        "text": "press@deel.com",
+        "href": "mailto:press@deel.com"
+      },
+      {
+        "text": "Download",
+        "href": "https://drive.google.com/drive/folders/1CAqVgkHZmzGb85hdTllE8tEK-Ktge9OO?usp=share_link"
+      },
+      {
+        "text": "Free HR tools",
+        "href": "https://www.deel.com/global-hiring-toolkit"
+      },
+      {
+        "text": "Press",
+        "href": "https://www.deel.com/press/"
+      },
+      {
+        "text": "Cookie Settings",
+        "href": "https://www.deel.com/press/#!"
+      }
+    ]
+  }
+}
