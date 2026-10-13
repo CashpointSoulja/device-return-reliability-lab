@@ -1,0 +1,1040 @@
+{
+  "context": "Cloud-local UI checks; not a formal assistive technology audit",
+  "base": "http://127.0.0.1:8788",
+  "results": [
+    {
+      "width": 320,
+      "height": 844,
+      "label": "booking",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 239,
+          "right": 283,
+          "top": 141.15625,
+          "bottom": 185.15625
+        },
+        {
+          "id": "slot-id",
+          "left": 37,
+          "right": 283,
+          "top": 400.65625,
+          "bottom": 446.65625
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 665.84375,
+          "bottom": 709.84375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 283,
+          "top": 665.84375,
+          "bottom": 709.84375
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "label": "keyboard dialog trap",
+      "focus": [
+        "dialog-close",
+        "slot-id",
+        "dialog-cancel",
+        "dialog-submit",
+        "dialog-close",
+        "slot-id",
+        "dialog-cancel",
+        "dialog-submit"
+      ],
+      "pass": true
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "label": "pickup proof",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 239,
+          "right": 283,
+          "top": 114.265625,
+          "bottom": 158.265625
+        },
+        {
+          "id": "custody-id",
+          "left": 37,
+          "right": 283,
+          "top": 373.765625,
+          "bottom": 419.765625
+        },
+        {
+          "id": "condition-id",
+          "left": 37,
+          "right": 283,
+          "top": 493.359375,
+          "bottom": 539.359375
+        },
+        {
+          "id": "conflicting-condition",
+          "left": 41,
+          "right": 57,
+          "top": 594.359375,
+          "bottom": 610.359375
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 692.734375,
+          "bottom": 736.734375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 283,
+          "top": 692.734375,
+          "bottom": 736.734375
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "label": "receipt proof",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 239,
+          "right": 283,
+          "top": 114.265625,
+          "bottom": 158.265625
+        },
+        {
+          "id": "custody-id",
+          "left": 37,
+          "right": 283,
+          "top": 373.765625,
+          "bottom": 419.765625
+        },
+        {
+          "id": "condition-id",
+          "left": 37,
+          "right": 283,
+          "top": 493.359375,
+          "bottom": 539.359375
+        },
+        {
+          "id": "conflicting-condition",
+          "left": 41,
+          "right": 57,
+          "top": 594.359375,
+          "bottom": 610.359375
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 692.734375,
+          "bottom": 736.734375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 283,
+          "top": 692.734375,
+          "bottom": 736.734375
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "label": "condition decision",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 239,
+          "right": 283,
+          "top": 168.25,
+          "bottom": 212.25
+        },
+        {
+          "id": "condition-decision",
+          "left": 37,
+          "right": 283,
+          "top": 410.15625,
+          "bottom": 456.15625
+        },
+        {
+          "id": "condition-rationale",
+          "left": 37,
+          "right": 283,
+          "top": 493.75,
+          "bottom": 580.75
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 619.75,
+          "bottom": 682.75
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 283,
+          "top": 619.75,
+          "bottom": 682.75
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "label": "repair attestation",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 239,
+          "right": 283,
+          "top": 233.640625,
+          "bottom": 277.640625
+        },
+        {
+          "id": "repair-id",
+          "left": 37,
+          "right": 283,
+          "top": 440.359375,
+          "bottom": 486.359375
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 554.359375,
+          "bottom": 617.359375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 283,
+          "top": 554.359375,
+          "bottom": 617.359375
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "label": "wipe attestation",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 239,
+          "right": 283,
+          "top": 231.703125,
+          "bottom": 275.703125
+        },
+        {
+          "id": "wipe-id",
+          "left": 37,
+          "right": 283,
+          "top": 442.296875,
+          "bottom": 488.296875
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 556.296875,
+          "bottom": 619.296875
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 283,
+          "top": 556.296875,
+          "bottom": 619.296875
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "label": "idle decision",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 239,
+          "right": 283,
+          "top": 168.953125,
+          "bottom": 212.953125
+        },
+        {
+          "id": "idle-owner",
+          "left": 37,
+          "right": 283,
+          "top": 428.453125,
+          "bottom": 474.453125
+        },
+        {
+          "id": "idle-rationale",
+          "left": 37,
+          "right": 283,
+          "top": 512.046875,
+          "bottom": 599.046875
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 638.046875,
+          "bottom": 682.046875
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 283,
+          "top": 638.046875,
+          "bottom": 682.046875
+        }
+      ]
+    },
+    {
+      "width": 320,
+      "height": 844,
+      "label": "session reset",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 239,
+          "right": 283,
+          "top": 278.84375,
+          "bottom": 322.84375
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 528.15625,
+          "bottom": 572.15625
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 283,
+          "top": 528.15625,
+          "bottom": 572.15625
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "label": "booking",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 309,
+          "right": 353,
+          "top": 174.40625,
+          "bottom": 218.40625
+        },
+        {
+          "id": "slot-id",
+          "left": 37,
+          "right": 353,
+          "top": 385,
+          "bottom": 431
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 632.59375,
+          "bottom": 676.59375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 353,
+          "top": 632.59375,
+          "bottom": 676.59375
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "label": "keyboard dialog trap",
+      "focus": [
+        "dialog-close",
+        "slot-id",
+        "dialog-cancel",
+        "dialog-submit",
+        "dialog-close",
+        "slot-id",
+        "dialog-cancel",
+        "dialog-submit"
+      ],
+      "pass": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "label": "pickup proof",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 309,
+          "right": 353,
+          "top": 162.515625,
+          "bottom": 206.515625
+        },
+        {
+          "id": "custody-id",
+          "left": 37,
+          "right": 353,
+          "top": 373.109375,
+          "bottom": 419.109375
+        },
+        {
+          "id": "condition-id",
+          "left": 37,
+          "right": 353,
+          "top": 477.703125,
+          "bottom": 523.703125
+        },
+        {
+          "id": "conflicting-condition",
+          "left": 41,
+          "right": 57,
+          "top": 563.703125,
+          "bottom": 579.703125
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 644.484375,
+          "bottom": 688.484375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 353,
+          "top": 644.484375,
+          "bottom": 688.484375
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "label": "receipt proof",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 309,
+          "right": 353,
+          "top": 162.515625,
+          "bottom": 206.515625
+        },
+        {
+          "id": "custody-id",
+          "left": 37,
+          "right": 353,
+          "top": 373.109375,
+          "bottom": 419.109375
+        },
+        {
+          "id": "condition-id",
+          "left": 37,
+          "right": 353,
+          "top": 477.703125,
+          "bottom": 523.703125
+        },
+        {
+          "id": "conflicting-condition",
+          "left": 41,
+          "right": 57,
+          "top": 563.703125,
+          "bottom": 579.703125
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 644.484375,
+          "bottom": 688.484375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 353,
+          "top": 644.484375,
+          "bottom": 688.484375
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "label": "condition decision",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 309,
+          "right": 353,
+          "top": 202.203125,
+          "bottom": 246.203125
+        },
+        {
+          "id": "condition-decision",
+          "left": 37,
+          "right": 353,
+          "top": 395.203125,
+          "bottom": 441.203125
+        },
+        {
+          "id": "condition-rationale",
+          "left": 37,
+          "right": 353,
+          "top": 478.796875,
+          "bottom": 565.796875
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 604.796875,
+          "bottom": 648.796875
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 353,
+          "top": 604.796875,
+          "bottom": 648.796875
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "label": "repair attestation",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 309,
+          "right": 353,
+          "top": 266.296875,
+          "bottom": 310.296875
+        },
+        {
+          "id": "repair-id",
+          "left": 37,
+          "right": 353,
+          "top": 441.703125,
+          "bottom": 487.703125
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 540.703125,
+          "bottom": 584.703125
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 353,
+          "top": 540.703125,
+          "bottom": 584.703125
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "label": "wipe attestation",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 309,
+          "right": 353,
+          "top": 257.5,
+          "bottom": 301.5
+        },
+        {
+          "id": "wipe-id",
+          "left": 37,
+          "right": 353,
+          "top": 450.5,
+          "bottom": 496.5
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 549.5,
+          "bottom": 593.5
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 353,
+          "top": 549.5,
+          "bottom": 593.5
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "label": "idle decision",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 309,
+          "right": 353,
+          "top": 193.40625,
+          "bottom": 237.40625
+        },
+        {
+          "id": "idle-owner",
+          "left": 37,
+          "right": 353,
+          "top": 404,
+          "bottom": 450
+        },
+        {
+          "id": "idle-rationale",
+          "left": 37,
+          "right": 353,
+          "top": 487.59375,
+          "bottom": 574.59375
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 613.59375,
+          "bottom": 657.59375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 353,
+          "top": 613.59375,
+          "bottom": 657.59375
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "label": "session reset",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 309,
+          "right": 353,
+          "top": 303.296875,
+          "bottom": 347.296875
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 503.703125,
+          "bottom": 547.703125
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 353,
+          "top": 503.703125,
+          "bottom": 547.703125
+        }
+      ]
+    },
+    {
+      "width": 540,
+      "height": 960,
+      "label": "booking",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 459,
+          "right": 503,
+          "top": 280.859375,
+          "bottom": 324.859375
+        },
+        {
+          "id": "slot-id",
+          "left": 37,
+          "right": 503,
+          "top": 442.546875,
+          "bottom": 488.546875
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 642.140625,
+          "bottom": 686.140625
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 503,
+          "top": 642.140625,
+          "bottom": 686.140625
+        }
+      ]
+    },
+    {
+      "width": 540,
+      "label": "keyboard dialog trap",
+      "focus": [
+        "dialog-close",
+        "slot-id",
+        "dialog-cancel",
+        "dialog-submit",
+        "dialog-close",
+        "slot-id",
+        "dialog-cancel",
+        "dialog-submit"
+      ],
+      "pass": true
+    },
+    {
+      "width": 540,
+      "height": 960,
+      "label": "pickup proof",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 459,
+          "right": 503,
+          "top": 253.765625,
+          "bottom": 297.765625
+        },
+        {
+          "id": "custody-id",
+          "left": 37,
+          "right": 503,
+          "top": 415.453125,
+          "bottom": 461.453125
+        },
+        {
+          "id": "condition-id",
+          "left": 37,
+          "right": 503,
+          "top": 520.046875,
+          "bottom": 566.046875
+        },
+        {
+          "id": "conflicting-condition",
+          "left": 41,
+          "right": 57,
+          "top": 606.046875,
+          "bottom": 622.046875
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 669.234375,
+          "bottom": 713.234375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 503,
+          "top": 669.234375,
+          "bottom": 713.234375
+        }
+      ]
+    },
+    {
+      "width": 540,
+      "height": 960,
+      "label": "receipt proof",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 459,
+          "right": 503,
+          "top": 253.765625,
+          "bottom": 297.765625
+        },
+        {
+          "id": "custody-id",
+          "left": 37,
+          "right": 503,
+          "top": 415.453125,
+          "bottom": 461.453125
+        },
+        {
+          "id": "condition-id",
+          "left": 37,
+          "right": 503,
+          "top": 520.046875,
+          "bottom": 566.046875
+        },
+        {
+          "id": "conflicting-condition",
+          "left": 41,
+          "right": 57,
+          "top": 606.046875,
+          "bottom": 622.046875
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 669.234375,
+          "bottom": 713.234375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 503,
+          "top": 669.234375,
+          "bottom": 713.234375
+        }
+      ]
+    },
+    {
+      "width": 540,
+      "height": 960,
+      "label": "condition decision",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 459,
+          "right": 503,
+          "top": 284.65625,
+          "bottom": 328.65625
+        },
+        {
+          "id": "condition-decision",
+          "left": 37,
+          "right": 503,
+          "top": 428.75,
+          "bottom": 474.75
+        },
+        {
+          "id": "condition-rationale",
+          "left": 37,
+          "right": 503,
+          "top": 512.34375,
+          "bottom": 599.34375
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 638.34375,
+          "bottom": 682.34375
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 503,
+          "top": 638.34375,
+          "bottom": 682.34375
+        }
+      ]
+    },
+    {
+      "width": 540,
+      "height": 960,
+      "label": "repair attestation",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 459,
+          "right": 503,
+          "top": 348.75,
+          "bottom": 392.75
+        },
+        {
+          "id": "repair-id",
+          "left": 37,
+          "right": 503,
+          "top": 475.25,
+          "bottom": 521.25
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 574.25,
+          "bottom": 618.25
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 503,
+          "top": 574.25,
+          "bottom": 618.25
+        }
+      ]
+    },
+    {
+      "width": 540,
+      "height": 960,
+      "label": "wipe attestation",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 459,
+          "right": 503,
+          "top": 339.953125,
+          "bottom": 383.953125
+        },
+        {
+          "id": "wipe-id",
+          "left": 37,
+          "right": 503,
+          "top": 484.046875,
+          "bottom": 530.046875
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 583.046875,
+          "bottom": 627.046875
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 503,
+          "top": 583.046875,
+          "bottom": 627.046875
+        }
+      ]
+    },
+    {
+      "width": 540,
+      "height": 960,
+      "label": "idle decision",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 459,
+          "right": 503,
+          "top": 275.859375,
+          "bottom": 319.859375
+        },
+        {
+          "id": "idle-owner",
+          "left": 37,
+          "right": 503,
+          "top": 437.546875,
+          "bottom": 483.546875
+        },
+        {
+          "id": "idle-rationale",
+          "left": 37,
+          "right": 503,
+          "top": 521.140625,
+          "bottom": 608.140625
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 647.140625,
+          "bottom": 691.140625
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 503,
+          "top": 647.140625,
+          "bottom": 691.140625
+        }
+      ]
+    },
+    {
+      "width": 540,
+      "height": 960,
+      "label": "session reset",
+      "pass": true,
+      "controls": [
+        {
+          "id": "dialog-close",
+          "left": 459,
+          "right": 503,
+          "top": 385.75,
+          "bottom": 429.75
+        },
+        {
+          "id": "dialog-cancel",
+          "left": 37,
+          "right": 113,
+          "top": 537.25,
+          "bottom": 581.25
+        },
+        {
+          "id": "dialog-submit",
+          "left": 123,
+          "right": 503,
+          "top": 537.25,
+          "bottom": 581.25
+        }
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "width": 320,
+      "height": 844,
+      "pass": true,
+      "documentWidth": 320
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "pass": true,
+      "documentWidth": 390
+    },
+    {
+      "width": 540,
+      "height": 960,
+      "pass": true,
+      "documentWidth": 540
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "device-return-reliability-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Ayo Ahmed - Independent concept. Synthetic device-return reliability lab.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "npm run build && node scripts/platform.mjs dev --local --port 8787",
+    "test": "node scripts/test.mjs",
+    "test:browser": "node scripts/browser-check.mjs",
+    "deploy:check": "npm run build && node scripts/platform.mjs deploy --dry-run",
+    "deploy": "npm run build && node scripts/platform.mjs deploy",
+    "test:scenarios": "node scripts/scenario-report.mjs",
+    "auth:check": "node scripts/platform.mjs whoami",
+    "test:accessibility": "node scripts/accessibility-check.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0",
+    "miniflare": "^4.0.0",
+    "playwright": "^1.56.0"
+  }
+}

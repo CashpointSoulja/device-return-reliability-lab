@@ -1,0 +1,219 @@
+{
+  "context": "Cloud-local Worker UI verification; not public-demo footage",
+  "base": "http://127.0.0.1:8788",
+  "results": [
+    {
+      "name": "Prominent independent synthetic notice",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Official Bagoss and Inter font faces load",
+      "expected": [
+        "loaded",
+        "loaded",
+        "loaded"
+      ],
+      "actual": [
+        "loaded",
+        "loaded",
+        "loaded"
+      ],
+      "pass": true
+    },
+    {
+      "name": "Initial fixed simulation time",
+      "expected": "2026-10-13T09:00:00.000Z",
+      "actual": "2026-10-13T09:00:00.000Z",
+      "pass": true
+    },
+    {
+      "name": "No desktop horizontal overflow",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "No phone horizontal overflow",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "All dialog controls fit 390×844",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "No capacity rejection is visible",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Rejected booking remains requested",
+      "expected": "requested",
+      "actual": "requested",
+      "pass": true
+    },
+    {
+      "name": "All dialog controls fit 390×844",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Supplier exception visible",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Missed pickup is supplier-owned",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Cooldown suppresses immediate missed message",
+      "expected": "cooldown",
+      "actual": "cooldown",
+      "pass": true
+    },
+    {
+      "name": "Duplicate event preserves message count",
+      "expected": 1,
+      "actual": 1,
+      "pass": true
+    },
+    {
+      "name": "All dialog controls fit 390×844",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "All dialog controls fit 390×844",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Missing pickup condition is rejected",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "All dialog controls fit 390×844",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Warehouse condition remains blocked after pickup",
+      "expected": false,
+      "actual": false,
+      "pass": true
+    },
+    {
+      "name": "All dialog controls fit 390×844",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Mismatched custody is rejected",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Missing wipe keeps received status",
+      "expected": "received",
+      "actual": "received",
+      "pass": true
+    },
+    {
+      "name": "All dialog controls fit 390×844",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Real simulated recovery completed",
+      "expected": "redeploy-ready",
+      "actual": "redeploy-ready",
+      "pass": true
+    },
+    {
+      "name": "All dialog controls fit 390×844",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Idle owner visible",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Reload persists completed recovery",
+      "expected": "redeploy-ready",
+      "actual": "redeploy-ready",
+      "pass": true
+    },
+    {
+      "name": "Scenario totals reflect execution",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "No scenario failures",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "name": "Inspectable actual and expected assertions",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Other visitor remains independently seeded",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "name": "All dialog controls fit 1440×1000",
+      "expected": true,
+      "actual": true,
+      "pass": true
+    },
+    {
+      "name": "Reset restores only current session",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "name": "Other visitor unaffected by reset",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "name": "No browser JavaScript errors",
+      "expected": [],
+      "actual": [],
+      "pass": true
+    }
+  ],
+  "errors": []
+}

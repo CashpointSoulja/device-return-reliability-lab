@@ -1,0 +1,407 @@
+{
+  "credit": "Ayo Ahmed - Independent concept",
+  "durationSeconds": 105,
+  "status": "reproducible_source_pending_public_https_capture_and_voice",
+  "scenes": [
+    {
+      "id": "book",
+      "seconds": 15,
+      "narration": "I built this independent concept to explore reliable device returns. Everything is synthetic. Booking depends on supplier capacity: the full slot rejects this attempt, so I reserve the remaining slot and confirm it.",
+      "actions": [
+        {
+          "kind": "visible",
+          "selector": "#session-app",
+          "at": 0
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"open-book\"]",
+          "at": 3
+        },
+        {
+          "kind": "select",
+          "selector": "#slot-id",
+          "value": "SLOT-FULL",
+          "at": 4
+        },
+        {
+          "kind": "click",
+          "selector": "#dialog-submit",
+          "at": 5
+        },
+        {
+          "kind": "visible",
+          "selector": "#dialog-error",
+          "at": 6
+        },
+        {
+          "kind": "select",
+          "selector": "#slot-id",
+          "value": "SLOT-LON-1",
+          "at": 8
+        },
+        {
+          "kind": "click",
+          "selector": "#dialog-submit",
+          "at": 9
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"confirm\"]",
+          "at": 11
+        },
+        {
+          "kind": "visible",
+          "selector": "#action-panel [data-action=\"missedPickup\"]",
+          "at": 12
+        }
+      ],
+      "expectStatus": "confirmed",
+      "returnId": "R-1001"
+    },
+    {
+      "id": "exception",
+      "seconds": 15,
+      "narration": "Now the supplier misses pickup. The exception has a supplier owner, a recovery action and a deadline. This visible outbox never sends messages. Replaying the same event leaves its deduplicated messages unchanged.",
+      "actions": [
+        {
+          "kind": "click",
+          "selector": "#advance-hour",
+          "at": 0
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"missedPickup\"]",
+          "at": 2
+        },
+        {
+          "kind": "visible",
+          "selector": "#supplier-exception",
+          "at": 3
+        },
+        {
+          "kind": "saveText",
+          "selector": "#outbox-count",
+          "key": "missed-outbox-count",
+          "at": 5
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"replay-event\"]",
+          "at": 6
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"notify\"]",
+          "at": 8
+        },
+        {
+          "kind": "sameText",
+          "selector": "#outbox-count",
+          "key": "missed-outbox-count",
+          "at": 9
+        },
+        {
+          "kind": "click",
+          "selector": "#tab-outbox",
+          "at": 10
+        },
+        {
+          "kind": "visible",
+          "selector": "#panel-outbox .suppression-list",
+          "at": 11
+        }
+      ],
+      "expectStatus": "confirmed",
+      "returnId": "R-1001"
+    },
+    {
+      "id": "recovery",
+      "seconds": 15,
+      "narration": "I rebook into available capacity. The old reservation releases exactly once, and the return keeps its audit history. The service deadline is explainable from remaining time and missed events, with an owner who can act.",
+      "actions": [
+        {
+          "kind": "click",
+          "selector": "#tab-flow",
+          "at": 0
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"open-book\"]",
+          "at": 1
+        },
+        {
+          "kind": "select",
+          "selector": "#slot-id",
+          "value": "SLOT-LON-2",
+          "at": 2
+        },
+        {
+          "kind": "click",
+          "selector": "#dialog-submit",
+          "at": 3
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"confirm\"]",
+          "at": 4
+        },
+        {
+          "kind": "visible",
+          "selector": "#sla-panel",
+          "at": 6
+        },
+        {
+          "kind": "click",
+          "selector": "#tab-audit",
+          "at": 10
+        },
+        {
+          "kind": "visible",
+          "selector": "#panel-audit",
+          "at": 11
+        }
+      ],
+      "expectStatus": "confirmed",
+      "returnId": "R-1001"
+    },
+    {
+      "id": "collection",
+      "seconds": 15,
+      "narration": "Collection requires a matching synthetic custody identifier and condition evidence. Missing proof is rejected. I enter distinct demonstration labels. This evidence describes a simulated handoff, and the application accepts no personal uploads.",
+      "actions": [
+        {
+          "kind": "click",
+          "selector": "#tab-flow",
+          "at": 0
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"collect\"]",
+          "at": 1
+        },
+        {
+          "kind": "select",
+          "selector": "#custody-id",
+          "value": "PICKUP-1",
+          "at": 2
+        },
+        {
+          "kind": "click",
+          "selector": "#dialog-submit",
+          "at": 3
+        },
+        {
+          "kind": "visible",
+          "selector": "#dialog-error",
+          "at": 4
+        },
+        {
+          "kind": "select",
+          "selector": "#condition-id",
+          "value": "PICKUP-CONDITION-1",
+          "at": 7
+        },
+        {
+          "kind": "click",
+          "selector": "#dialog-submit",
+          "at": 8
+        },
+        {
+          "kind": "visible",
+          "selector": "#gates-panel",
+          "at": 10
+        }
+      ],
+      "expectStatus": "collected",
+      "returnId": "R-1001"
+    },
+    {
+      "id": "receipt",
+      "seconds": 15,
+      "narration": "Receipt needs a separate handoff record and a continuous custody chain. Incorrect identifiers cannot progress. Condition problems route to repair or quarantine. A wipe is only a synthetic attestation, and it requires receipt first.",
+      "actions": [
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"receive\"]",
+          "at": 0
+        },
+        {
+          "kind": "select",
+          "selector": "#custody-id",
+          "value": "BROKEN-CHAIN-RECEIPT",
+          "at": 1
+        },
+        {
+          "kind": "select",
+          "selector": "#condition-id",
+          "value": "CONDITION-1",
+          "at": 2
+        },
+        {
+          "kind": "click",
+          "selector": "#dialog-submit",
+          "at": 3
+        },
+        {
+          "kind": "visible",
+          "selector": "#dialog-error",
+          "at": 4
+        },
+        {
+          "kind": "select",
+          "selector": "#custody-id",
+          "value": "RECEIPT-1",
+          "at": 6
+        },
+        {
+          "kind": "click",
+          "selector": "#dialog-submit",
+          "at": 7
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"markReady\"]",
+          "at": 8
+        },
+        {
+          "kind": "text",
+          "selector": "#global-message",
+          "value": "WIPE_REQUIRED",
+          "at": 8.5
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"wipe\"]",
+          "at": 9
+        },
+        {
+          "kind": "select",
+          "selector": "#wipe-id",
+          "value": "WIPE-1",
+          "at": 10
+        },
+        {
+          "kind": "click",
+          "selector": "#dialog-submit",
+          "at": 11
+        },
+        {
+          "kind": "visible",
+          "selector": "#gates-panel",
+          "at": 12
+        }
+      ],
+      "expectStatus": "wiped",
+      "returnId": "R-1001"
+    },
+    {
+      "id": "decision",
+      "seconds": 15,
+      "narration": "With custody, condition and wipe prerequisites satisfied, this recovered return becomes ready to redeploy. Holding a returned device idle is also an explicit decision, with its own owner, rationale and age. Nothing silently becomes available.",
+      "actions": [
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"markReady\"]",
+          "at": 0
+        },
+        {
+          "kind": "visible",
+          "selector": "#gates-panel",
+          "at": 2
+        },
+        {
+          "kind": "click",
+          "selector": "#action-panel [data-action=\"keepIdle\"]",
+          "at": 4
+        },
+        {
+          "kind": "fill",
+          "selector": "#idle-rationale",
+          "value": "Synthetic allocation hold: no approved next assignment; review before the next simulated shift.",
+          "at": 6
+        },
+        {
+          "kind": "click",
+          "selector": "#dialog-submit",
+          "at": 8
+        },
+        {
+          "kind": "visible",
+          "selector": "#idle-panel",
+          "at": 10
+        },
+        {
+          "kind": "click",
+          "selector": "#advance-hour",
+          "at": 11
+        },
+        {
+          "kind": "visible",
+          "selector": "#idle-panel",
+          "at": 12
+        }
+      ],
+      "expectStatus": "redeploy-ready",
+      "returnId": "R-1001"
+    },
+    {
+      "id": "results",
+      "seconds": 15,
+      "narration": "These scenarios execute the same domain rules as the app. Inspect the expected and actual invariants, including capacity races, duplicate events and missing evidence. Reload preserves this isolated session. The question is which exception needs action next.",
+      "actions": [
+        {
+          "kind": "click",
+          "selector": "#tab-scenarios",
+          "at": 0
+        },
+        {
+          "kind": "click",
+          "selector": "#run-scenarios",
+          "at": 1
+        },
+        {
+          "kind": "visible",
+          "selector": "#scenario-results .scenario-totals",
+          "at": 2
+        },
+        {
+          "kind": "click",
+          "selector": "#scenario-last-slot-race summary",
+          "at": 4
+        },
+        {
+          "kind": "visible",
+          "selector": "#scenario-last-slot-race .scenario-body",
+          "at": 5
+        },
+        {
+          "kind": "click",
+          "selector": "#scenario-wipe-before-receipt summary",
+          "at": 7
+        },
+        {
+          "kind": "visible",
+          "selector": "#scenario-wipe-before-receipt .scenario-body",
+          "at": 8
+        },
+        {
+          "kind": "reload",
+          "at": 11
+        },
+        {
+          "kind": "visible",
+          "selector": "#session-app",
+          "at": 12
+        },
+        {
+          "kind": "visible",
+          "selector": "#idle-panel",
+          "at": 13
+        }
+      ],
+      "expectStatus": "redeploy-ready",
+      "returnId": "R-1001"
+    }
+  ]
+}

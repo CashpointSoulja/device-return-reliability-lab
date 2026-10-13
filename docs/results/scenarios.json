@@ -1,0 +1,808 @@
+{
+  "scenarios": [
+    {
+      "id": "no-capacity",
+      "name": "No supplier capacity",
+      "description": "A full slot cannot accept a reservation.",
+      "assertions": [
+        {
+          "name": "Full slot rejects booking",
+          "expected": "NO_CAPACITY",
+          "actual": "NO_CAPACITY",
+          "pass": true
+        },
+        {
+          "name": "Full slot rejects booking: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Full slot remains at zero reservations",
+          "expected": 0,
+          "actual": 0,
+          "pass": true
+        },
+        {
+          "name": "Return remains requested",
+          "expected": "requested",
+          "actual": "requested",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "last-slot-race",
+      "name": "Last-slot race",
+      "description": "Competing requests cannot consume the final slot twice.",
+      "assertions": [
+        {
+          "name": "Competing stale writer is rejected",
+          "expected": "STALE_REVISION",
+          "actual": "STALE_REVISION",
+          "pass": true
+        },
+        {
+          "name": "Competing stale writer is rejected: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Retry sees final slot occupied",
+          "expected": "NO_CAPACITY",
+          "actual": "NO_CAPACITY",
+          "pass": true
+        },
+        {
+          "name": "Retry sees final slot occupied: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Final slot reserved once",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Competing return remains requested",
+          "expected": "requested",
+          "actual": "requested",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "duplicate-booking",
+      "name": "Duplicate booking command",
+      "description": "Retrying a command preserves its original reservation.",
+      "assertions": [
+        {
+          "name": "Replay retains original revision",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Replay adds no audit mutation",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Replay retains one reservation",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Reused key with changed payload rejects",
+          "expected": "IDEMPOTENCY_CONFLICT",
+          "actual": "IDEMPOTENCY_CONFLICT",
+          "pass": true
+        },
+        {
+          "name": "Reused key with changed payload rejects: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "cancel-twice",
+      "name": "Cancel twice",
+      "description": "Repeated cancellation releases capacity once.",
+      "assertions": [
+        {
+          "name": "Capacity released exactly once",
+          "expected": 0,
+          "actual": 0,
+          "pass": true
+        },
+        {
+          "name": "Return requested after repeat cancellation",
+          "expected": "requested",
+          "actual": "requested",
+          "pass": true
+        },
+        {
+          "name": "Capacity never becomes negative",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "rebook-capacity",
+      "name": "Rebook capacity",
+      "description": "Moving a reservation releases the old slot and reserves the new one.",
+      "assertions": [
+        {
+          "name": "Original slot released",
+          "expected": 0,
+          "actual": 0,
+          "pass": true
+        },
+        {
+          "name": "Replacement slot reserved",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Failed move preserves reservation",
+          "expected": "NO_CAPACITY",
+          "actual": "NO_CAPACITY",
+          "pass": true
+        },
+        {
+          "name": "Failed move preserves reservation: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Failed move retains previous slot",
+          "expected": "SLOT-LON-2",
+          "actual": "SLOT-LON-2",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "missed-pickup",
+      "name": "Missed supplier pickup",
+      "description": "The supplier owns recovery and employee messages stay bounded.",
+      "assertions": [
+        {
+          "name": "Missed pickup remains confirmed",
+          "expected": "confirmed",
+          "actual": "confirmed",
+          "pass": true
+        },
+        {
+          "name": "Supplier owns the missed-pickup exception",
+          "expected": "Synthetic supplier SYN-SUP-01",
+          "actual": "Synthetic supplier SYN-SUP-01",
+          "pass": true
+        },
+        {
+          "name": "Supplier exception has next action and deadline",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        },
+        {
+          "name": "Missed reservation released",
+          "expected": 0,
+          "actual": 0,
+          "pass": true
+        },
+        {
+          "name": "Employee messages remain bounded",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        },
+        {
+          "name": "Every queued message is visibly synthetic and bounded",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        },
+        {
+          "name": "Recovery completes with real prerequisites",
+          "expected": "redeploy-ready",
+          "actual": "redeploy-ready",
+          "pass": true
+        },
+        {
+          "name": "Recovered asset retains missed-event history",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "duplicate-event",
+      "name": "Duplicate event",
+      "description": "A repeated supplier event changes state once.",
+      "assertions": [
+        {
+          "name": "Duplicate event preserves revision",
+          "expected": 2,
+          "actual": 2,
+          "pass": true
+        },
+        {
+          "name": "Duplicate event preserves audit",
+          "expected": 2,
+          "actual": 2,
+          "pass": true
+        },
+        {
+          "name": "Event applied once",
+          "expected": "confirmed",
+          "actual": "confirmed",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "out-of-order-event",
+      "name": "Out-of-order event",
+      "description": "An early event cannot skip a prerequisite.",
+      "assertions": [
+        {
+          "name": "Receipt before collection rejects",
+          "expected": "INVALID_STATE",
+          "actual": "INVALID_STATE",
+          "pass": true
+        },
+        {
+          "name": "Receipt before collection rejects: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "No skipped stage",
+          "expected": "requested",
+          "actual": "requested",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "stale-revision",
+      "name": "Stale revision",
+      "description": "A stale writer cannot overwrite a later decision.",
+      "assertions": [
+        {
+          "name": "Stale revision cannot overwrite booking",
+          "expected": "STALE_REVISION",
+          "actual": "STALE_REVISION",
+          "pass": true
+        },
+        {
+          "name": "Stale revision cannot overwrite booking: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Successful writer retains reservation",
+          "expected": "SLOT-LON-1",
+          "actual": "SLOT-LON-1",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "wrong-asset-custody",
+      "name": "Wrong asset custody",
+      "description": "Custody proof for another asset is rejected.",
+      "assertions": [
+        {
+          "name": "Another asset cannot satisfy pickup custody",
+          "expected": "CUSTODY_MISMATCH",
+          "actual": "CUSTODY_MISMATCH",
+          "pass": true
+        },
+        {
+          "name": "Another asset cannot satisfy pickup custody: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Status stays confirmed",
+          "expected": "confirmed",
+          "actual": "confirmed",
+          "pass": true
+        },
+        {
+          "name": "Receipt must continue the pickup custody chain",
+          "expected": "CUSTODY_MISMATCH",
+          "actual": "CUSTODY_MISMATCH",
+          "pass": true
+        },
+        {
+          "name": "Receipt must continue the pickup custody chain: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Broken chain keeps asset collected",
+          "expected": "collected",
+          "actual": "collected",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "absent-condition",
+      "name": "Absent condition proof",
+      "description": "Collection needs valid condition evidence.",
+      "assertions": [
+        {
+          "name": "Pickup without condition proof rejects",
+          "expected": "CONDITION_REQUIRED",
+          "actual": "CONDITION_REQUIRED",
+          "pass": true
+        },
+        {
+          "name": "Pickup without condition proof rejects: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Receipt without condition proof rejects",
+          "expected": "CONDITION_REQUIRED",
+          "actual": "CONDITION_REQUIRED",
+          "pass": true
+        },
+        {
+          "name": "Receipt without condition proof rejects: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Missing warehouse proof keeps collected status",
+          "expected": "collected",
+          "actual": "collected",
+          "pass": true
+        },
+        {
+          "name": "Pickup proof cannot also attest warehouse condition",
+          "expected": "INVALID_EVIDENCE",
+          "actual": "INVALID_EVIDENCE",
+          "pass": true
+        },
+        {
+          "name": "Pickup proof cannot also attest warehouse condition: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Condition IDs must be distinct",
+          "expected": "INVALID_EVIDENCE",
+          "actual": "INVALID_EVIDENCE",
+          "pass": true
+        },
+        {
+          "name": "Condition IDs must be distinct: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "conflicting-condition",
+      "name": "Conflicting condition",
+      "description": "Conflicting evidence cannot manufacture a clean condition.",
+      "assertions": [
+        {
+          "name": "Conflicting evidence blocks condition gate",
+          "expected": false,
+          "actual": false,
+          "pass": true
+        },
+        {
+          "name": "Conflict blocks wipe",
+          "expected": "CONDITION_BLOCKED",
+          "actual": "CONDITION_BLOCKED",
+          "pass": true
+        },
+        {
+          "name": "Conflict blocks wipe: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Condition conflict routes explicit support",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "wipe-missing",
+      "name": "Missing wipe attestation",
+      "description": "An unwiped device cannot become ready to redeploy.",
+      "assertions": [
+        {
+          "name": "Missing wipe blocks readiness",
+          "expected": "WIPE_REQUIRED",
+          "actual": "WIPE_REQUIRED",
+          "pass": true
+        },
+        {
+          "name": "Missing wipe blocks readiness: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "No attestation manufactured",
+          "expected": false,
+          "actual": false,
+          "pass": true
+        },
+        {
+          "name": "Wipe gate remains false",
+          "expected": false,
+          "actual": false,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "wipe-before-receipt",
+      "name": "Wipe before receipt",
+      "description": "An attestation cannot precede verified receipt.",
+      "assertions": [
+        {
+          "name": "Wipe before verified receipt rejects",
+          "expected": "INVALID_STATE",
+          "actual": "INVALID_STATE",
+          "pass": true
+        },
+        {
+          "name": "Wipe before verified receipt rejects: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Return stays collected",
+          "expected": "collected",
+          "actual": "collected",
+          "pass": true
+        },
+        {
+          "name": "Pickup proof alone cannot clear warehouse condition gate",
+          "expected": false,
+          "actual": false,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "quarantine-block",
+      "name": "Quarantine blocks redeploy",
+      "description": "Condition issues require an explicit operational decision.",
+      "assertions": [
+        {
+          "name": "Quarantine blocks wipe",
+          "expected": "CONDITION_BLOCKED",
+          "actual": "CONDITION_BLOCKED",
+          "pass": true
+        },
+        {
+          "name": "Quarantine blocks wipe: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Quarantine blocks readiness",
+          "expected": "CONDITION_BLOCKED",
+          "actual": "CONDITION_BLOCKED",
+          "pass": true
+        },
+        {
+          "name": "Quarantine blocks readiness: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Condition gate stays blocked",
+          "expected": false,
+          "actual": false,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "notification-duplicate",
+      "name": "Notification dedupe",
+      "description": "An identical meaningful event creates one synthetic message.",
+      "assertions": [
+        {
+          "name": "Meaningful booking appears once",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Visible suppression log explains duplicate",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        },
+        {
+          "name": "Outbox keys remain unique",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "person-cap",
+      "name": "Per-person message cap",
+      "description": "Employee messages cannot exceed the session limit.",
+      "assertions": [
+        {
+          "name": "Per-person cap enforced",
+          "expected": 2,
+          "actual": 2,
+          "pass": true
+        },
+        {
+          "name": "Cap suppression is visible",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "cooldown",
+      "name": "Message cooldown",
+      "description": "Closely spaced updates do not create repeated messages.",
+      "assertions": [
+        {
+          "name": "Closely spaced message suppressed",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Cooldown logged visibly",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        },
+        {
+          "name": "Meaningful message allowed at cooldown boundary",
+          "expected": 2,
+          "actual": 2,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "sla-boundary",
+      "name": "SLA deadline boundary",
+      "description": "Time remaining and ownership explain risk exactly at the boundary.",
+      "assertions": [
+        {
+          "name": "One minute before deadline is explicit",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Near deadline routes at-risk",
+          "expected": "at-risk",
+          "actual": "at-risk",
+          "pass": true
+        },
+        {
+          "name": "Deadline remaining is exactly zero",
+          "expected": 0,
+          "actual": 0,
+          "pass": true
+        },
+        {
+          "name": "Deadline is overdue at boundary",
+          "expected": "overdue",
+          "actual": "overdue",
+          "pass": true
+        },
+        {
+          "name": "SLA explanation includes owner and reasons",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "idle-decision",
+      "name": "Idle asset decision",
+      "description": "A returned idle asset has a rationale, owner, and visible age.",
+      "assertions": [
+        {
+          "name": "Idle decision without rationale rejects",
+          "expected": "INVALID_COMMAND",
+          "actual": "INVALID_COMMAND",
+          "pass": true
+        },
+        {
+          "name": "Idle decision without rationale rejects: rejection preserves state",
+          "expected": "unchanged",
+          "actual": "unchanged",
+          "pass": true
+        },
+        {
+          "name": "Idle owner retained",
+          "expected": "Synthetic IT operations",
+          "actual": "Synthetic IT operations",
+          "pass": true
+        },
+        {
+          "name": "Idle age follows simulation clock",
+          "expected": 90,
+          "actual": 90,
+          "pass": true
+        },
+        {
+          "name": "Keeping idle does not imply redeployment",
+          "expected": "received",
+          "actual": "received",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "happy-path",
+      "name": "Complete return",
+      "description": "Every prerequisite supports the complete sequence to redeploy-ready.",
+      "assertions": [
+        {
+          "name": "Full sequence completes",
+          "expected": "redeploy-ready",
+          "actual": "redeploy-ready",
+          "pass": true
+        },
+        {
+          "name": "All redeploy prerequisites are verified",
+          "expected": {
+            "custody": true,
+            "condition": true,
+            "wipe": true,
+            "ready": true
+          },
+          "actual": {
+            "custody": true,
+            "condition": true,
+            "wipe": true,
+            "ready": true
+          },
+          "pass": true
+        },
+        {
+          "name": "Active reservation ends after collection",
+          "expected": 0,
+          "actual": 0,
+          "pass": true
+        },
+        {
+          "name": "Completed collection consumes supplier throughput",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Completed collection cannot reopen the serviced final slot",
+          "expected": 0,
+          "actual": 0,
+          "pass": true
+        },
+        {
+          "name": "Audit remains chronological",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        },
+        {
+          "name": "Completed SLA is explained",
+          "expected": "complete",
+          "actual": "complete",
+          "pass": true
+        }
+      ],
+      "pass": true
+    },
+    {
+      "id": "persistence-reload",
+      "name": "Persistence / reload",
+      "description": "Reload retains custody, reservations, audit, and command dedupe.",
+      "assertions": [
+        {
+          "name": "Reload retains complete serializable state",
+          "expected": "identical persisted state",
+          "actual": "identical persisted state",
+          "pass": true
+        },
+        {
+          "name": "Reload retains command dedupe",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Reload retains one reservation",
+          "expected": 1,
+          "actual": 1,
+          "pass": true
+        },
+        {
+          "name": "Completed return survives another reload",
+          "expected": "redeploy-ready",
+          "actual": "redeploy-ready",
+          "pass": true
+        },
+        {
+          "name": "Custody and wipe gates survive reload",
+          "expected": true,
+          "actual": true,
+          "pass": true
+        }
+      ],
+      "pass": true
+    }
+  ],
+  "total": 22,
+  "passed": 22,
+  "failed": 0,
+  "assertionCount": 102,
+  "clock": "2026-10-13T09:00:00.000Z",
+  "timeZone": "Europe/London"
+}
