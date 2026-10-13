@@ -35,6 +35,7 @@ await page.addInitScript(() => {
     addEventListener('mouseup',()=>dot.style.background='#ffe7ab');
   });
 });
+const videoStart=performance.now();
 const response = await page.goto(target.href,{waitUntil:'networkidle'});
 if (!response || !response.ok() || new URL(page.url()).protocol !== 'https:') throw new Error('Public HTTPS demo did not load successfully.');
 await publicHost(new URL(page.url()));
@@ -69,6 +70,7 @@ async function action(a){
   await dialogFits();
 }
   const captureStart=performance.now();
+  log.narrativeVideoStartSeconds=(captureStart-videoStart)/1000;
   let elapsed=0;
   for(const [i,scene] of plan.scenes.entries()){
     const start=performance.now();
@@ -96,6 +98,7 @@ async function action(a){
     log.scenes.push({id:scene.id,seconds:scene.seconds,actionSeconds,observedState,screenshot:path.basename(screenshot),actions:scene.actions});
     await fs.writeFile(path.join(out,'capture-manifest.json'),JSON.stringify(log,null,2));
   }
+  await new Promise(resolve=>setTimeout(resolve,2200));
   await context.close();
   const source=await page.video().path();
   await fs.rename(source,path.join(out,'raw.webm'));
